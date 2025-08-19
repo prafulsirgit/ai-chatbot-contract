@@ -1,0 +1,72 @@
+{
+  "college_name": "S. B. Jain Institute of Technology, Management & Research (SBJITMR), Nagpur",
+  "established_year": 2008,
+  "affiliation": "Autonomous (UGC & RTMNU) under Rashtrasant Tukadoji Maharaj Nagpur University",
+  "accreditation": {
+    "NAAC": "A Grade",
+    "NBA": ["Electrical Engineering", "Mechanical Engineering", "Electronics & Telecommunication Engineering"]
+  },
+  "campus": {
+    "size_acres": 12,
+    "architecture_style": "British pattern",
+    "facilities": [
+      "Sports complex (basketball, volleyball, lawn tennis, swimming pool)",
+      "Wi-Fi enabled campus",
+      "E-classrooms",
+      "Fully computerized library with OPAC, 25,000+ books",
+      "Computerized central workshop",
+      "Hostels (boys and girls)",
+      "Canteen, dispensary, transport services"
+    ]
+  },
+  "programs": {
+    "undergraduate": [
+      "Computer Science & Engineering",
+      "CSE (Data Science)",
+      "CSE (AI & Machine Learning)",
+      "Electronics & Telecommunication Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Information Technology (from 2025-26)"
+    ],
+    "postgraduate": [
+      "M.Tech (Electronics Engineering)",
+      "MBA",
+      "MCA (from 2025-26)",
+      "PhD (Electronics Engineering)",
+      "M.Tech (CSE, from 2025-26)"
+    ]
+  },
+  "placement_highlights_2025": {
+    "top_recruiters": ["HCL (39 offers)", "Capgemini (15)", "Tech Mahindra (11)", "Cognizant", "Infosys", "Unilever", "Tata Autocomp", "D-Mart", "ICICI Bank"],
+    "strengths": ["Disciplined academic environment", "Outcome-based education"]
+  },
+  "student_forum": {
+    "Emergicon": {
+      "launch_date": "2025-08-05",
+      "role": "Coordinates 27 clubs across technical, cultural & sports domains",
+      "purpose": "Promote leadership, hands-on experience, innovation"
+    }
+  },
+  "scholarships": {
+    "merit_topper": {"1st": 50000, "2nd": 25000, "3rd": 10000},
+    "need_based": ["Sir Shantilalji Badjate Memorial Scholarship (₹10,000–₹50,000)", "Late Mrs. Jaswantiben Anantrai Parekh Scholarship (₹25,000 for low-income CAP round achievers)"],
+    "government_schemes": "Support for SC/ST/OBC/EBC/VJNT/SBC",
+    "other": "University and class toppers"
+  },
+  "cutoffs_MHT_CET_percentile": {
+    "General (GOPENS) Round 3": {
+      "CSE": 85.61,
+      "CSE (DS)": 75.34,
+      "CSE (AI&ML)": 75.34,
+      "Electronics & Telecommunication": 70.87,
+      "Electrical": 57.87
+    },
+    "Trend (GOPENS) 2021-2024 for CSE": {
+      "2021": 79.95,
+      "2022": 81.03,
+      "2023": 82.33,
+      "2024": 79.52
+    }
+  }
+}
