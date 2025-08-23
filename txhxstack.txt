@@ -1,0 +1,12 @@
+backend
+- fastapi 
+- langchain + google gemini api 
+
+embedding model 
+- gemini-embedding-001
+
+vector database
+- chroma DB
+
+frontend
+- react

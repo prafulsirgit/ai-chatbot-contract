@@ -1,0 +1,141 @@
+{
+  "college": {
+    "name": "Yashwantrao Chavan College of Engineering (YCCE)",
+    "established": 1984,
+    "type": "Autonomous Engineering College",
+    "affiliation": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "accreditation": ["AICTE", "NBA", "NAAC A++ (2023)"],
+    "campus": {
+      "location": "Wanadongri, Hingna Sub-Division, Nagpur, Maharashtra, India",
+      "size_acres": 14
+    },
+    "administration": {
+      "founder": "Datta Meghe",
+      "principal": "Uday P. Waghe",
+      "dean": "Dr. Abhay V. Patil"
+    },
+    "student_body": {
+      "total_students": 5000,
+      "levels_offered": ["Undergraduate", "Postgraduate", "Doctoral"]
+    }
+  },
+  "departments": [
+    {"name": "Applied Sciences, Humanities & General Engineering", "established": 1984},
+    {"name": "Electronics Engineering", "established": 1984},
+    {"name": "Civil Engineering", "established": 1984},
+    {"name": "Computer Technology", "established": 1985},
+    {"name": "Electrical Engineering", "established": 1987},
+    {"name": "Mechanical Engineering", "established": 1987},
+    {"name": "Information Technology", "established": 2001},
+    {"name": "Electronics & Telecommunication Engineering", "established": 2001},
+    {"name": "Computer Science & Engineering", "established": 2020},
+    {"name": "Artificial Intelligence and Data Science", "established": 2021},
+    {"name": "Computer Science & Design", "established": 2021},
+    {"name": "CSE (AI & ML)", "established": 2022}
+  ],
+  "ug_courses": [
+    {
+      "program": "B.Tech / B.E.",
+      "branches": [
+        {"name": "Civil Engineering", "start_year": 1984, "intake": 120},
+        {"name": "Mechanical Engineering", "start_year": 1987, "intake": 120},
+        {"name": "Electronics Engineering", "start_year": 1984, "intake": 120},
+        {"name": "Electrical Engineering (Electronics & Power)", "start_year": 1987, "intake": 120},
+        {"name": "Computer Technology", "start_year": 1985, "intake": 120},
+        {"name": "Electronics & Telecommunication Engineering", "start_year": 2001, "intake": 180},
+        {"name": "Information Technology", "start_year": 2001, "intake": 180},
+        {"name": "Computer Science & Engineering", "start_year": 2020, "intake": 180},
+        {"name": "Computer Science & Engineering (IoT)", "start_year": 2022, "intake": 60},
+        {"name": "Computer Science & Design", "start_year": 2021, "intake": 120},
+        {"name": "CSE (Artificial Intelligence & Machine Learning)", "start_year": 2021, "intake": 60},
+        {"name": "Artificial Intelligence & Data Science", "start_year": 2021, "intake": 60},
+        {"name": "Electronics Engineering (VLSI Design and Technology)", "start_year": 2023, "intake": 60}
+      ],
+      "lateral_entry": {
+        "quota_percent": 10,
+        "examples": [
+          {"branch": "Civil Engineering", "intake": 12},
+          {"branch": "Mechanical Engineering", "intake": 12},
+          {"branch": "Electronics Engineering", "intake": 12},
+          {"branch": "Electrical Engineering", "intake": 12},
+          {"branch": "Computer Technology", "intake": 12},
+          {"branch": "Electronics & Telecommunication Engineering", "intake": 18},
+          {"branch": "Information Technology", "intake": 12},
+          {"branch": "CSE", "intake": 12},
+          {"branch": "CSE (AIML)", "intake": 6},
+          {"branch": "AI & DS", "intake": 6},
+          {"branch": "Computer Science & Design", "intake": 6},
+          {"branch": "CSE (IoT)", "intake": 6}
+        ]
+      }
+    }
+  ],
+  "pg_courses": [
+    {
+      "program": "M.Tech",
+      "specializations": [
+        "Structural Engineering",
+        "Environmental Engineering",
+        "CAD/CAM",
+        "Communication Engineering",
+        "Integrated Power System (IPS)",
+        "Computer Science & Engineering",
+        "Data Science",
+        "Automation & Robotics",
+        "Electronics & Communication (VLSI Design)"
+      ],
+      "duration_years": 2
+    },
+    {
+      "program": "MBA",
+      "duration_years": 2,
+      "seats": 120
+    }
+  ],
+  "doctoral": [
+    "Ph.D. in Electronics Engineering",
+    "Ph.D. in Mechanical Engineering",
+    "Ph.D. in Computer Science and Engineering",
+    "Ph.D. in Electrical Engineering"
+  ],
+  "fees (approx)": {
+    "UG_total": "₹6.9L – ₹7L (entire duration)",
+    "PG (M.Tech)": "₹2.1L – ₹2.62L",
+    "MBA": "₹2.1L",
+    "layout": {
+      "source_info": "UG total ₹6.92L - ₹7 L; M.Tech PG ₹2.1L - ₹2.62L; MBA ₹2.1L" 
+    }
+  },
+  "admissions": {
+    "UG": {"entrance_exams": ["MHT CET", "JEE Main"]},
+    "PG": {"entrance_exams": ["GATE", "MHTCET MTech"]},
+    "MBA": {"entrance_exams": ["MAH CET"]}
+  },
+  "affiliations_and_rankings": {
+    "NAAC": "A++ (3.6/4 in 2023)",
+    "NIRF_rank_2024": "151–200 (Engineering)",
+    "total_courses_offered": 40
+  },
+  "placements (2023-24)": {
+    "total_placements": 766,
+    "branch_wise": {
+      "Computer Technology": 109,
+      "Information Technology": 98,
+      "Electrical Engineering": 77,
+      "Electronics Technology": 139,
+      "Civil Engineering": 51,
+      "Electronics Engineering": 85,
+      "Mechanical Engineering": 95,
+      "CSE": 112
+    },
+    "UG_placement_rate": "≈75.5%",
+    "PG_placement_rate": "≈95.5%",
+    "highest_package": "₹25 L",
+    "average_package": "₹6 L",
+    "top_recruiters": [
+      "Amazon", "Deloitte", "JP Morgan Chase & Co", "Capgemini", "Infosys", "IBM", "Adani", "Accenture",
+      "PwC", "Cognizant", "BYJU’s", " Amdocs", "Reliance Retail", "Hexaware", "Calsoft", "Checkpoint"
+    ]
+  },
+  "events": ["YASH (annual cultural & technical fest)", "Compufest", "Electrrica"]
+}

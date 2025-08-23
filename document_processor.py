@@ -16,6 +16,11 @@ def load_and_split_documents():
         elif file.endswith(".txt"):
             loader = TextLoader(file, encoding="utf-8")
             docs.extend(loader.load())
+        elif file.endswith(".csv"):
+            from langchain.document_loaders.csv_loader import CSVLoader
+            loader = CSVLoader(file_path=file, encoding="utf-8")
+            docs.extend(loader.load())
+
     
     # Split documents into chunks
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
