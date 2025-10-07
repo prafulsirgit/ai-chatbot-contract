@@ -32,7 +32,7 @@ const InputBar = ({ onSend }) => {
         className="send-button"
         animate={{ opacity: isTyping ? 1 : 0.7 }}
       >
-        ➤
+        ↑
       </motion.button>
     </form>
   );

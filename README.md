@@ -6,17 +6,17 @@ An AI-powered chatbot for interacting with documents (e.g., contracts) using vec
 
 ## 🚀 Features
 
-* Upload and process documents (PDF, text).
-* Create and manage a vector database for semantic search.
-* Chat interface powered by AI for contract/document Q\&A.
-* Modular Python backend with a lightweight UI (`edbot-ui`).
+- Upload and process documents (PDF, text).
+- Create and manage a vector database for semantic search.
+- Chat interface powered by AI for contract/document Q\&A.
+- Modular Python backend with a lightweight UI (`edbot-ui`).
 
 ---
 
 ## 📦 Requirements
 
-* Python **3.9+**
-* Node.js **16+** (for UI, if needed)
+- Python **3.9+/3.13.1**
+- Node.js **16+** (for UI, if needed)
 
 Install dependencies:
 
