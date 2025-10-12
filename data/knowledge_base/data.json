@@ -1,0 +1,2807 @@
+[
+  {
+    "college_name": "Anjuman College of Engineering & Technology, Nagpur",
+    "college_code": "04172",
+    "location": "Nagpur",
+    "status": "Un-Aided Religious Minority - Muslim",
+    "home_university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 155823, "percentile": 25.6482713 },
+            { "category": "LOPENH", "rank": 165463, "percentile": 16.7391126 },
+            { "category": "GOPENO", "rank": 151289, "percentile": 29.3071786 },
+            { "category": "LOPENO", "rank": 164973, "percentile": 17.7533973 },
+            {
+              "category": "LOPENO_HU",
+              "rank": 162565,
+              "percentile": 19.4065824
+            },
+            { "category": "MI", "rank": 173868, "percentile": 7.8241614 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 92311, "percentile": 65.4406319 },
+            { "category": "LOPENH", "rank": 84762, "percentile": 68.9053056 },
+            { "category": "GOPENO", "rank": 101432, "percentile": 60.596742 },
+            { "category": "LOPENO", "rank": 101380, "percentile": 60.596742 },
+            { "category": "MI", "rank": 106187, "percentile": 58.5786927 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Artificial Intelligence (AI) and Data Science",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 103454, "percentile": 60.2294112 },
+            { "category": "LOPENH", "rank": 88877, "percentile": 67.0458361 },
+            { "category": "GOPENO", "rank": 95230, "percentile": 63.7045846 },
+            { "category": "LOPENO", "rank": 79402, "percentile": 71.353144 },
+            { "category": "MI", "rank": 115735, "percentile": 53.7424491 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 139962, "percentile": 38.5392182 },
+            { "category": "LOPENH", "rank": 135432, "percentile": 41.3261276 },
+            { "category": "GOPENO", "rank": 174696, "percentile": 6.7863525 },
+            { "category": "LOPENO", "rank": 148734, "percentile": 31.4286926 },
+            {
+              "category": "LOPENO_HU",
+              "rank": 136148,
+              "percentile": 40.7306838
+            },
+            { "category": "MI", "rank": 178995, "percentile": 0.9801176 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 117146, "percentile": 52.5184688 },
+            { "category": "LOPENH", "rank": 120415, "percentile": 50.8618056 },
+            { "category": "GOPENO", "rank": 125692, "percentile": 47.6302148 },
+            { "category": "LOPENO", "rank": 111532, "percentile": 55.8763225 },
+            { "category": "MI", "rank": 151843, "percentile": 28.8690743 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 170595, "percentile": 11.5084415 },
+            { "category": "LOPENH", "rank": 159913, "percentile": 22.1725851 },
+            { "category": "GOPENO", "rank": 173299, "percentile": 8.4810177 },
+            {
+              "category": "GOPENO_HU",
+              "rank": 170919,
+              "percentile": 11.4128678
+            },
+            { "category": "LOPENO", "rank": null, "percentile": null },
+            { "category": "MI", "rank": 179453, "percentile": 0.2560443 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Laxminarayan Innovation Technological University, Nagpur",
+    "college_code": "14005",
+    "location": "Nagpur",
+    "status": "University Autonomous",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Plastic and Polymer Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 35656, "percentile": 88.0156813 },
+            { "category": "GSCS", "rank": 51163, "percentile": 82.4585869 },
+            { "category": "GOBCS", "rank": 50625, "percentile": 82.6959019 },
+            { "category": "GSEBCS", "rank": 105726, "percentile": 59.0509185 },
+            { "category": "LOPENS", "rank": 45359, "percentile": 84.4941393 },
+            { "category": "EWS", "rank": null, "percentile": null }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Food Technology",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 55078, "percentile": 80.9741447 },
+            { "category": "GVJS", "rank": 63087, "percentile": 77.8410928 },
+            { "category": "GNT2S", "rank": 32422, "percentile": 89.8573546 },
+            { "category": "GOBCS", "rank": 61909, "percentile": 79.8240416 },
+            { "category": "LOPENS", "rank": 8910, "percentile": 97.2397184 },
+            { "category": "LSCS", "rank": 5077, "percentile": 98.3855117 },
+            { "category": "LSEBCS", "rank": 996, "percentile": 99.6188351 },
+            { "category": "EWS", "rank": null, "percentile": null }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Chemical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 12615, "percentile": 96.1455693 },
+            { "category": "GSCS", "rank": 61070, "percentile": 80.1787592 },
+            { "category": "GSTS", "rank": 20735, "percentile": 93.5897436 },
+            { "category": "GNT1S", "rank": 18600, "percentile": 93.8492553 },
+            { "category": "GNT2S", "rank": 32867, "percentile": 88.890236 },
+            { "category": "GNT3S", "rank": 148794, "percentile": 31.4286926 },
+            { "category": "GSEBCS", "rank": 24491, "percentile": 91.8183008 },
+            { "category": "LOPENS", "rank": 25417, "percentile": 91.5477593 },
+            { "category": "LSCS", "rank": 21264, "percentile": 92.9153295 },
+            { "category": "LSTS", "rank": 22958, "percentile": 92.33546 },
+            { "category": "LVJS", "rank": 60481, "percentile": 78.956117 },
+            { "category": "LNT1S", "rank": 18310, "percentile": 93.9032684 },
+            { "category": "LNT2S", "rank": 24210, "percentile": 91.9365609 },
+            { "category": "LOBCS", "rank": 98006, "percentile": 62.8733646 },
+            { "category": "LSEBCS", "rank": null, "percentile": null },
+            { "category": "PWDOPENS", "rank": null, "percentile": null },
+            { "category": "DEFOPENS", "rank": null, "percentile": null },
+            { "category": "DEFRSCS", "rank": null, "percentile": null },
+            { "category": "EWS", "rank": null, "percentile": null }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Paper and Pulp Technology",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 34045, "percentile": 88.5172385 },
+            { "category": "GSCS", "rank": 58142, "percentile": 79.7465759 },
+            { "category": "LOPENS", "rank": 42071, "percentile": 85.5052176 },
+            { "category": "LSCS", "rank": 62937, "percentile": 77.8445199 },
+            { "category": "LOBCS", "rank": 83143, "percentile": 69.7604398 },
+            { "category": "EWS", "rank": 101515, "percentile": 60.596742 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Petro Chemical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 23713, "percentile": 92.1089443 },
+            { "category": "GSCS", "rank": 34984, "percentile": 88.1228442 },
+            { "category": "GVJS", "rank": 104329, "percentile": 60.0743746 },
+            { "category": "GOBCS", "rank": 24990, "percentile": 91.6345444 },
+            { "category": "LOPENS", "rank": 30608, "percentile": 89.6994627 },
+            { "category": "LNT3S", "rank": 173565, "percentile": 8.032746 },
+            { "category": "EWS", "rank": null, "percentile": null }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Oil Technology",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 46154, "percentile": 84.2156613 },
+            { "category": "GOBCS", "rank": 49323, "percentile": 82.8860671 },
+            { "category": "LOPENS", "rank": 48196, "percentile": 83.5073164 },
+            { "category": "LSCS", "rank": 66530, "percentile": 76.4789025 },
+            { "category": "LSEBCS", "rank": 99470, "percentile": 62.2534756 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Surface Coating Technology",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 34959, "percentile": 88.1366358 },
+            { "category": "GSCS", "rank": 41986, "percentile": 85.5052176 },
+            { "category": "GNT1S", "rank": 75468, "percentile": 72.8411223 },
+            { "category": "GNT2S", "rank": 49031, "percentile": 83.032746 },
+            { "category": "GOBCS", "rank": 32812, "percentile": 88.9034341 },
+            { "category": "GSEBCS", "rank": 57115, "percentile": 80.0921435 },
+            { "category": "EWS", "rank": 88521, "percentile": 67.5033807 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Government College of Engineering, Nagpur",
+    "college_code": "04025",
+    "location": "Nagpur",
+    "status": "Government",
+    "home_university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 43089, "percentile": 85.2662319 },
+            { "category": "GSCH", "rank": 65357, "percentile": 76.7997668 },
+            { "category": "GSTH", "rank": 103820, "percentile": 60.1504384 },
+            { "category": "GVJH", "rank": 118606, "percentile": 51.7862916 },
+            { "category": "GNT2H", "rank": 78184, "percentile": 71.716606 },
+            { "category": "GOBCH", "rank": 53291, "percentile": 81.658825 },
+            { "category": "GSEBCH", "rank": 134005, "percentile": 42.2207447 },
+            { "category": "LOPENH", "rank": 48916, "percentile": 83.1469549 },
+            { "category": "LSCH", "rank": 62758, "percentile": 77.8445199 },
+            { "category": "LNT1H", "rank": 57192, "percentile": 80.0921435 },
+            { "category": "LOBCH", "rank": 55430, "percentile": 80.7840564 },
+            { "category": "PWDOPENH", "rank": 172391, "percentile": 9.6053076 },
+            { "category": "PWDRSTH", "rank": 174693, "percentile": 6.7863525 },
+            { "category": "LSEBCH", "rank": 96833, "percentile": 63.0759599 },
+            { "category": "PWDOBCH", "rank": 62653, "percentile": 77.8466015 },
+            { "category": "GOPENO", "rank": 43928, "percentile": 84.886137 },
+            { "category": "GSCO", "rank": 68322, "percentile": 75.7359803 },
+            { "category": "GSTO", "rank": 99979, "percentile": 61.8908693 },
+            { "category": "GNT2O", "rank": 72774, "percentile": 73.8893284 },
+            { "category": "GOBCO", "rank": 44499, "percentile": 84.6402007 },
+            { "category": "LOPENO", "rank": 55972, "percentile": 80.5896708 },
+            { "category": "LNT3O", "rank": 140163, "percentile": 38.4109612 },
+            { "category": "LOBCO", "rank": 57388, "percentile": 80.0615027 },
+            { "category": "LSEBCO", "rank": 126847, "percentile": 46.5102928 },
+            {
+              "category": "DEFOPENS",
+              "rank": 121832,
+              "percentile": 50.0353239
+            },
+            { "category": "EWS", "rank": 93479, "percentile": 65.2298851 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 9024, "percentile": 97.0110164 },
+            { "category": "GSCH", "rank": 18652, "percentile": 93.833949 },
+            { "category": "GSTH", "rank": 23998, "percentile": 91.9723529 },
+            { "category": "GVJH", "rank": 44446, "percentile": 84.6402007 },
+            { "category": "GNT1H", "rank": 21990, "percentile": 92.66353 },
+            { "category": "GNT2H", "rank": 16424, "percentile": 94.5541467 },
+            { "category": "GNT3H", "rank": 42380, "percentile": 85.4383663 },
+            { "category": "GOBCH", "rank": 10050, "percentile": 96.6700602 },
+            { "category": "GSEBCH", "rank": 62087, "percentile": 78.1973837 },
+            { "category": "LOPENH", "rank": 5693, "percentile": 98.0817663 },
+            { "category": "LSCH", "rank": 25288, "percentile": 91.5584966 },
+            { "category": "LSTH", "rank": 58693, "percentile": 79.5235744 },
+            { "category": "LNT2H", "rank": 26060, "percentile": 91.2741634 },
+            { "category": "LOBCH", "rank": 8587, "percentile": 97.1452421 },
+            { "category": "LSEBCH", "rank": 37430, "percentile": 87.295318 },
+            { "category": "PWDOPENH", "rank": 52918, "percentile": 81.7658119 },
+            { "category": "PWDOBCH", "rank": 86134, "percentile": 68.2901694 },
+            { "category": "PWDROBC", "rank": 63335, "percentile": 77.8250739 },
+            { "category": "GOPENO", "rank": 9474, "percentile": 96.8812962 },
+            { "category": "GSCO", "rank": 18252, "percentile": 93.9575282 },
+            { "category": "GOBCO", "rank": 10266, "percentile": 96.6035924 },
+            { "category": "GSEBCO", "rank": 17712, "percentile": 94.0958488 },
+            { "category": "LOPENO", "rank": 6572, "percentile": 97.7963272 },
+            { "category": "LSCO", "rank": 26699, "percentile": 91.0655077 },
+            { "category": "LSTO", "rank": 46613, "percentile": 83.9659115 },
+            { "category": "LVJO", "rank": 45713, "percentile": 84.3369649 },
+            { "category": "LNT1O", "rank": 33753, "percentile": 88.5679854 },
+            { "category": "DEFOPENS", "rank": 20128, "percentile": 93.284975 },
+            { "category": "DEFOBCS", "rank": 49588, "percentile": 82.7820291 },
+            { "category": "DEFROBCS", "rank": 47647, "percentile": 83.5806009 },
+            { "category": "ORPHAN", "rank": 58324, "percentile": 79.6526596 },
+            { "category": "EWS", "rank": 16572, "percentile": 94.5198836 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 33584, "percentile": 88.632522 },
+            { "category": "GSCH", "rank": 41316, "percentile": 85.8772819 },
+            { "category": "GSTH", "rank": 122838, "percentile": 49.513096 },
+            { "category": "GVJH", "rank": 124155, "percentile": 48.6138054 },
+            { "category": "GNT1H", "rank": 41347, "percentile": 85.8772819 },
+            { "category": "GNT2H", "rank": 97927, "percentile": 62.8733646 },
+            { "category": "GOBCH", "rank": 36288, "percentile": 87.5899987 },
+            { "category": "LOPENH", "rank": 32523, "percentile": 89.0036224 },
+            { "category": "LSCH", "rank": 42222, "percentile": 85.4541675 },
+            { "category": "LSTH", "rank": 132987, "percentile": 42.8773305 },
+            { "category": "LVJH", "rank": 76987, "percentile": 72.2338818 },
+            { "category": "LOBCH", "rank": 36558, "percentile": 87.5123219 },
+            { "category": "GSEBCH", "rank": 51961, "percentile": 82.0158422 },
+            { "category": "LNT3H", "rank": 139077, "percentile": 38.8659877 },
+            { "category": "LSEBCH", "rank": 87263, "percentile": 67.8440824 },
+            { "category": "GOPENO", "rank": 26436, "percentile": 91.2367752 },
+            { "category": "GSCO", "rank": 51221, "percentile": 82.2448555 },
+            { "category": "GSTO", "rank": 89637, "percentile": 66.8404462 },
+            { "category": "GNT2O", "rank": 56756, "percentile": 80.2743712 },
+            { "category": "GOBCO", "rank": 27746, "percentile": 90.7095159 },
+            { "category": "GSEBCO", "rank": 29434, "percentile": 90.0772352 },
+            { "category": "LOPENO", "rank": 29274, "percentile": 90.1066152 },
+            { "category": "LSCO", "rank": 69202, "percentile": 75.3516004 },
+            { "category": "LOBCO", "rank": 33480, "percentile": 88.6962727 },
+            { "category": "LSEBCO", "rank": 64749, "percentile": 77.1713278 },
+            {
+              "category": "DEFOPENS",
+              "rank": 103101,
+              "percentile": 60.2921536
+            },
+            { "category": "DEFOBCS", "rank": 133543, "percentile": 42.725346 },
+            {
+              "category": "DEFROBCS",
+              "rank": 129472,
+              "percentile": 45.3423263
+            },
+            { "category": "EWS", "rank": 64336, "percentile": 77.5959933 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 18136, "percentile": 93.9721727 },
+            { "category": "GSCH", "rank": 29377, "percentile": 90.0992619 },
+            { "category": "GSTH", "rank": 102333, "percentile": 60.5030966 },
+            { "category": "GVJH", "rank": 76311, "percentile": 72.6095528 },
+            { "category": "GNT3H", "rank": 74217, "percentile": 73.4468855 },
+            { "category": "GOBCH", "rank": 22125, "percentile": 92.6351162 },
+            { "category": "GSEBCH", "rank": 78622, "percentile": 71.5965758 },
+            { "category": "LOPENH", "rank": 20988, "percentile": 93.0070517 },
+            { "category": "LSCH", "rank": 37660, "percentile": 87.1564824 },
+            { "category": "LSTH", "rank": 80123, "percentile": 70.8722936 },
+            { "category": "LNT2H", "rank": 23428, "percentile": 92.2260059 },
+            { "category": "LOBCH", "rank": 139093, "percentile": 38.8659877 },
+            { "category": "LSEBCH", "rank": 43907, "percentile": 84.886137 },
+            { "category": "GOPENO", "rank": 16004, "percentile": 94.689576 },
+            { "category": "GSCO", "rank": 26203, "percentile": 91.2510363 },
+            { "category": "GSTO", "rank": 47245, "percentile": 83.7440631 },
+            { "category": "GVJO", "rank": 35856, "percentile": 87.920678 },
+            { "category": "GNT1O", "rank": 39145, "percentile": 86.7111001 },
+            { "category": "GOBCO", "rank": 17293, "percentile": 94.2444474 },
+            { "category": "GSEBCO", "rank": 26899, "percentile": 90.9518962 },
+            { "category": "LOPENO", "rank": 19251, "percentile": 93.6359026 },
+            { "category": "LSCO", "rank": 43545, "percentile": 85.1704164 },
+            { "category": "LNT2O", "rank": 40753, "percentile": 86.1227045 },
+            { "category": "LOBCO", "rank": 20317, "percentile": 93.2403522 },
+            { "category": "DEFOPENS", "rank": 44100, "percentile": 84.8307457 },
+            { "category": "DEFOBCS", "rank": 70557, "percentile": 74.9709109 },
+            { "category": "EWS", "rank": 29049, "percentile": 90.2921536 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 38725, "percentile": 86.8242361 },
+            { "category": "GSCH", "rank": 58613, "percentile": 79.5290328 },
+            { "category": "GSTH", "rank": 97794, "percentile": 62.8733646 },
+            { "category": "GNT1H", "rank": 62513, "percentile": 77.8466015 },
+            { "category": "GNT2H", "rank": 71705, "percentile": 74.3785526 },
+            { "category": "GOBCH", "rank": 44592, "percentile": 84.6087386 },
+            { "category": "GSEBCH", "rank": 147417, "percentile": 32.2475132 },
+            { "category": "LOPENH", "rank": 58074, "percentile": 79.7465759 },
+            { "category": "LSCH", "rank": 63913, "percentile": 77.7152332 },
+            { "category": "LSTH", "rank": 76978, "percentile": 72.2338818 },
+            { "category": "LNT1H", "rank": 103451, "percentile": 60.2294112 },
+            { "category": "LOBCH", "rank": 61870, "percentile": 78.2152555 },
+            {
+              "category": "PWDOPENH",
+              "rank": 153947,
+              "percentile": 27.5123271
+            },
+            { "category": "GSEBCH", "rank": 63319, "percentile": 77.8250739 },
+            { "category": "LVJH", "rank": 95193, "percentile": 63.7045846 },
+            { "category": "LSEBCH", "rank": 109063, "percentile": 57.1959853 },
+            { "category": "GOPENO", "rank": 32153, "percentile": 89.1373005 },
+            { "category": "GSCO", "rank": 56324, "percentile": 80.5358903 },
+            { "category": "GNT3O", "rank": 74407, "percentile": 73.4250332 },
+            { "category": "GOBCO", "rank": 33264, "percentile": 88.7353399 },
+            { "category": "LOPENO", "rank": 55602, "percentile": 80.7413807 },
+            { "category": "LSTO", "rank": 111973, "percentile": 55.2318816 },
+            { "category": "LOBCO", "rank": 61680, "percentile": 78.2152555 },
+            { "category": "LSEBCO", "rank": 70269, "percentile": 75.0114283 },
+            {
+              "category": "DEFOPENS",
+              "rank": 113130,
+              "percentile": 54.7526673
+            },
+            { "category": "DEFOBCS", "rank": 161627, "percentile": 20.9410678 },
+            { "category": "EWS", "rank": 74041, "percentile": 73.4468855 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",
+    "college_code": "04116",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous Linguistic Minority - Hindi",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 98814, "percentile": 62.7875345 },
+            { "category": "LOPENS", "rank": 102029, "percentile": 60.546705 },
+            { "category": "MI", "rank": 178886, "percentile": 1.1428334 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 28023, "percentile": 90.5913294 },
+            { "category": "LOPENS", "rank": 27387, "percentile": 90.8293494 },
+            { "category": "MI", "rank": 59365, "percentile": 79.3458895 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Information Technology",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 31823, "percentile": 89.2671256 },
+            { "category": "LOPENS", "rank": 31379, "percentile": 89.3399508 },
+            { "category": "MI", "rank": 100095, "percentile": 61.6354671 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Cyber Security)",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 37908, "percentile": 87.0844527 },
+            { "category": "LOPENS", "rank": 37666, "percentile": 87.1564824 },
+            { "category": "MI", "rank": 123441, "percentile": 48.8696809 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (IoT)",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 40512, "percentile": 86.1433391 },
+            { "category": "LOPENS", "rank": 40328, "percentile": 86.1764583 },
+            { "category": "MI", "rank": 135989, "percentile": 40.99476 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 76214, "percentile": 72.6095528 },
+            { "category": "LOPENS", "rank": 67570, "percentile": 76.1268781 },
+            { "category": "MI", "rank": 179441, "percentile": 0.2624457 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engg",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 40959, "percentile": 86.0755637 },
+            { "category": "LOPENS", "rank": 36400, "percentile": 87.5598503 },
+            { "category": "MI", "rank": 147099, "percentile": 32.8344132 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electronics Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 64261, "percentile": 77.5959933 },
+            { "category": "LOPENS", "rank": 62228, "percentile": 78.1946121 },
+            { "category": "MI", "rank": 177389, "percentile": 3.1992114 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 89986, "percentile": 66.4751458 },
+            { "category": "LOPENS", "rank": 102759, "percentile": 60.2951569 },
+            { "category": "MI", "rank": 177220, "percentile": 3.4995855 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 34830, "percentile": 88.157541 },
+            { "category": "LOPENS", "rank": 34002, "percentile": 88.5172385 },
+            { "category": "MI", "rank": 101402, "percentile": 60.596742 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Artificial Intelligence)",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 35542, "percentile": 88.0194481 },
+            { "category": "LOPENS", "rank": 32135, "percentile": 89.1945571 },
+            { "category": "MI", "rank": 93927, "percentile": 65.0377535 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Data Science",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 40965, "percentile": 86.0755637 },
+            { "category": "LOPENS", "rank": 40250, "percentile": 86.1969983 },
+            { "category": "MI", "rank": 129655, "percentile": 45.3423263 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Artificial Intelligence",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 39772, "percentile": 86.3062406 },
+            { "category": "LOPENS", "rank": 38125, "percentile": 86.9353148 },
+            { "category": "MI", "rank": 125528, "percentile": 47.6302148 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur",
+    "college_code": "04123",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous Linguistic Minority - Hindi",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Aeronautical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 64517, "percentile": 77.2074577 },
+            { "category": "LOPENS", "rank": 62595, "percentile": 77.8466015 },
+            { "category": "MI", "rank": 178929, "percentile": 1.090894 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Bio Technology",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 19757, "percentile": 93.8788198 },
+            { "category": "LOPENS", "rank": 16592, "percentile": 94.8736358 },
+            { "category": "MI", "rank": 180881, "percentile": 1.368368 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 106310, "percentile": 58.1588042 },
+            { "category": "LOPENS", "rank": 118433, "percentile": 52.0276576 },
+            { "category": "MI", "rank": 177738, "percentile": 2.7688637 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 39890, "percentile": 86.2657912 },
+            { "category": "LOPENS", "rank": 39180, "percentile": 86.7111001 },
+            { "category": "MI", "rank": 108256, "percentile": 57.2537563 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Information Technology",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 47057, "percentile": 83.7447544 },
+            { "category": "LOPENS", "rank": 46334, "percentile": 84.1570554 },
+            { "category": "MI", "rank": 139814, "percentile": 38.5392182 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Technology",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 51717, "percentile": 82.1493863 },
+            { "category": "LOPENS", "rank": 48343, "percentile": 83.4700421 },
+            { "category": "MI", "rank": 163490, "percentile": 18.7034184 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Industrial IoT",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 64719, "percentile": 77.1713278 },
+            { "category": "LOPENS", "rank": 66587, "percentile": 76.4789025 },
+            { "category": "MI", "rank": 174558, "percentile": 6.8903978 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Robotics and Artificial Intelligence",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 55353, "percentile": 80.7840564 },
+            { "category": "LOPENS", "rank": 54453, "percentile": 81.1614491 },
+            { "category": "MI", "rank": 153751, "percentile": 27.5123271 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 88333, "percentile": 67.5033807 },
+            { "category": "LOPENS", "rank": 86253, "percentile": 68.1767082 },
+            { "category": "MI", "rank": 175526, "percentile": 5.825722 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electronics and Communication Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 73717, "percentile": 73.5848302 },
+            { "category": "LOPENS", "rank": 69917, "percentile": 75.1972801 },
+            { "category": "MI", "rank": 178530, "percentile": 1.7106294 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engg",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 60013, "percentile": 79.0646435 },
+            { "category": "LOPENS", "rank": 57124, "percentile": 80.0921435 },
+            { "category": "MI", "rank": 179136, "percentile": 0.7400888 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Chemical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 63720, "percentile": 77.7634641 },
+            { "category": "LOPENS", "rank": 58859, "percentile": 79.5235744 },
+            { "category": "MI", "rank": 173682, "percentile": 7.8773225 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 105900, "percentile": 58.5786927 },
+            { "category": "LOPENS", "rank": 115375, "percentile": 53.7694785 },
+            { "category": "MI", "rank": 173869, "percentile": 7.8241614 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENS", "rank": 48759, "percentile": 83.1983982 },
+            { "category": "LOPENS", "rank": 45861, "percentile": 84.3179513 },
+            { "category": "MI", "rank": 144470, "percentile": 34.805294 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering, Nagpur",
+    "college_code": "04133",
+    "location": "Nagpur",
+    "status": "Un-Aided",
+    "home_university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 175288, "percentile": 6.2116069 },
+            { "category": "GSCH", "rank": 177278, "percentile": 3.4404128 },
+            { "category": "LOPENH", "rank": 179436, "percentile": 0.2784358 },
+            { "category": "GOBCH", "rank": 172879, "percentile": 9.2050034 },
+            { "category": "GOPENO", "rank": 177343, "percentile": 3.245658 },
+            { "category": "LOPENO", "rank": 156429, "percentile": 25.5139718 },
+            { "category": "EWS", "rank": 162444, "percentile": 19.5522021 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 94696, "percentile": 64.4664266 },
+            { "category": "GSCH", "rank": 111407, "percentile": 55.8763225 },
+            { "category": "GSTH", "rank": 162425, "percentile": 19.5522021 },
+            { "category": "GNT1H", "rank": 128560, "percentile": 45.5784574 },
+            { "category": "GNT2H", "rank": 127836, "percentile": 46.3188381 },
+            { "category": "GOBCH", "rank": null, "percentile": null },
+            { "category": "LOPENH", "rank": 115647, "percentile": 53.7694785 },
+            { "category": "LSCH", "rank": null, "percentile": null },
+            { "category": "LOBCH", "rank": 68334, "percentile": 75.7359803 },
+            { "category": "GOPENO", "rank": 90085, "percentile": 66.4751458 },
+            { "category": "GSCO", "rank": 105029, "percentile": 59.8892661 },
+            { "category": "GSTO", "rank": 164405, "percentile": 18.1477824 },
+            { "category": "GVJO", "rank": 103368, "percentile": 60.2294112 },
+            { "category": "GOBCO", "rank": 99537, "percentile": 62.2534756 },
+            { "category": "LOPENO", "rank": 96073, "percentile": 63.2687832 },
+            { "category": "EWS", "rank": 84275, "percentile": 69.2652564 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Computer Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 179236, "percentile": 0.5995753 },
+            { "category": "GSCH", "rank": 112860, "percentile": 55.0733859 },
+            { "category": "GSTH", "rank": 118193, "percentile": 52.0276576 },
+            { "category": "GOBCH", "rank": 173809, "percentile": 7.8389114 },
+            { "category": "LOPENH", "rank": 119536, "percentile": 51.1396363 },
+            { "category": "LSCH", "rank": 98336, "percentile": 62.8351694 },
+            { "category": "LNT2H", "rank": 107585, "percentile": 57.414259 },
+            { "category": "GVJH", "rank": 106160, "percentile": 58.5786927 },
+            { "category": "GSEBCH", "rank": 109109, "percentile": 57.1959853 },
+            { "category": "LVJH", "rank": 92780, "percentile": 65.3627105 },
+            { "category": "GOPENO", "rank": 112980, "percentile": 54.7526673 },
+            { "category": "GSCO", "rank": 130592, "percentile": 44.4778985 },
+            { "category": "GNT1O", "rank": 125951, "percentile": 47.4576949 },
+            { "category": "GNT2O", "rank": 113631, "percentile": 54.3568289 },
+            { "category": "GNT3O", "rank": 136780, "percentile": 40.1585977 },
+            { "category": "LOPENO", "rank": 86147, "percentile": 68.2901694 },
+            { "category": "LSCO", "rank": 112715, "percentile": 55.0733859 },
+            { "category": "EWS", "rank": 168869, "percentile": 13.6336642 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 147676, "percentile": 32.1785112 },
+            { "category": "GSCH", "rank": 165537, "percentile": 16.7391126 },
+            { "category": "GSTH", "rank": 151821, "percentile": 28.8690743 },
+            { "category": "GNT1H", "rank": 153532, "percentile": 27.6622718 },
+            { "category": "GOBCH", "rank": 158852, "percentile": 22.974757 },
+            { "category": "LSCH", "rank": 124373, "percentile": 48.6138054 },
+            { "category": "LSTH", "rank": 155731, "percentile": 25.6745674 },
+            { "category": "GOPENO", "rank": 122772, "percentile": 49.6193645 },
+            { "category": "GSCO", "rank": 139095, "percentile": 38.8659877 },
+            { "category": "GNT2O", "rank": 174405, "percentile": 7.2451247 },
+            { "category": "GOBCO", "rank": 134382, "percentile": 42.2200941 },
+            { "category": "LOPENO", "rank": 94537, "percentile": 64.4664266 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engg",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 143240, "percentile": 35.6703287 },
+            { "category": "GSCH", "rank": 166868, "percentile": 15.5975889 },
+            { "category": "LSCH", "rank": 131112, "percentile": 44.3676458 },
+            { "category": "LOPENH", "rank": 141550, "percentile": 36.9291471 },
+            { "category": "LOBCH", "rank": 153078, "percentile": 27.9969458 },
+            { "category": "LNT1H", "rank": 122281, "percentile": 49.7949643 },
+            { "category": "GVJH", "rank": 158391, "percentile": 23.9858471 },
+            { "category": "GNT2H", "rank": 164261, "percentile": 18.4142776 },
+            { "category": "GOPENO", "rank": 110689, "percentile": 56.5649954 },
+            { "category": "GSCO", "rank": 125326, "percentile": 47.9076668 },
+            { "category": "GOBCO", "rank": 119943, "percentile": 50.9307179 },
+            { "category": "LOPENO", "rank": 121681, "percentile": 50.0957604 },
+            { "category": "LOBCO", "rank": 133970, "percentile": 42.2207447 },
+            { "category": "LSEBCO", "rank": 130847, "percentile": 44.3676458 },
+            { "category": "LSCO", "rank": 141574, "percentile": 36.9291471 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 178855, "percentile": 1.1972353 },
+            { "category": "GSCH", "rank": 178859, "percentile": 1.1851062 },
+            { "category": "LOPENH", "rank": 167038, "percentile": 15.4906838 },
+            { "category": "LOBCH", "rank": 176334, "percentile": 4.8593455 },
+            { "category": "GOBCH", "rank": 178547, "percentile": 1.6812156 },
+            { "category": "GOPENO", "rank": 154617, "percentile": 27.1532908 },
+            { "category": "LOPENO", "rank": 170106, "percentile": 11.9971742 },
+            { "category": "GOPENO_H", "rank": 178338, "percentile": 1.9115192 },
+            { "category": "GSCO", "rank": 178742, "percentile": 1.368368 },
+            { "category": "LNT1O", "rank": 172667, "percentile": 9.4599659 }
+          ],
+          "round2": [],
+          "round3": []
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Guru Nanak Institute of Engineering & Technology, Kalmeshwar, Nagpur",
+    "college_code": "04134",
+    "location": "Kalmeshwar, Nagpur",
+    "status": "Un-Aided",
+    "home_university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 78110, "percentile": 71.716606 },
+            { "category": "GSCH", "rank": 85758, "percentile": 68.4737144 },
+            { "category": "GSTH", "rank": 143069, "percentile": 35.6703287 },
+            { "category": "GVJH", "rank": 169961, "percentile": 12.5620266 },
+            { "category": "GNT1H", "rank": 91976, "percentile": 65.5509182 },
+            { "category": "GOBCH", "rank": 91614, "percentile": 65.722735 },
+            { "category": "LOPENH", "rank": null, "percentile": null },
+            { "category": "LSCH", "rank": null, "percentile": null },
+            { "category": "LOBCH", "rank": null, "percentile": null },
+            { "category": "GSEBCH", "rank": 130747, "percentile": 44.4778985 },
+            { "category": "LSTH", "rank": 93344, "percentile": 65.2298851 },
+            { "category": "LVJH", "rank": 109192, "percentile": 57.1959853 },
+            { "category": "LNT3H", "rank": 99049, "percentile": 62.7875345 },
+            { "category": "LSEBCH", "rank": 102901, "percentile": 60.2921536 },
+            { "category": "GOPENO", "rank": 159291, "percentile": 22.5020163 },
+            { "category": "GSCO", "rank": 70468, "percentile": 74.9709109 },
+            { "category": "EWS", "rank": 121883, "percentile": 50.0353239 }
+          ]
+        }
+      },
+      {
+        "branch": "Information Technology",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 108135, "percentile": 57.3310702 },
+            { "category": "GSCH", "rank": 123481, "percentile": 48.777949 },
+            { "category": "GVJH", "rank": 176044, "percentile": 5.0055145 },
+            { "category": "GNT1H", "rank": 136828, "percentile": 40.1585977 },
+            { "category": "GOBCH", "rank": null, "percentile": null },
+            { "category": "LOPENH", "rank": 121050, "percentile": 50.6004122 },
+            { "category": "LSCH", "rank": 106103, "percentile": 58.5786927 },
+            { "category": "GNT2H", "rank": 73912, "percentile": 73.5848302 },
+            { "category": "GSEBCH", "rank": 162750, "percentile": 19.3655345 },
+            { "category": "LOPENO", "rank": 52036, "percentile": 81.9801476 },
+            { "category": "GSCO", "rank": 86869, "percentile": 67.8622856 },
+            { "category": "GOBCO", "rank": 80496, "percentile": 70.6178643 },
+            { "category": "LOBCO", "rank": 84929, "percentile": 68.9053056 },
+            { "category": "EWS", "rank": 171531, "percentile": 10.8434786 }
+          ]
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 159407, "percentile": 22.4081803 },
+            { "category": "GSCH", "rank": 175055, "percentile": 6.2795808 },
+            { "category": "GSTH", "rank": 166721, "percentile": 15.6816655 },
+            { "category": "GNT1H", "rank": 164221, "percentile": 18.4142776 },
+            { "category": "LOPENH", "rank": 170208, "percentile": 11.8827852 },
+            { "category": "LSCH", "rank": 129770, "percentile": 44.8929536 },
+            { "category": "LOBCH", "rank": 166981, "percentile": 15.5975889 },
+            { "category": "GOPENO", "rank": 112769, "percentile": 55.0733859 },
+            { "category": "GSCO", "rank": 154577, "percentile": 27.1532908 },
+            { "category": "GSTO", "rank": 174548, "percentile": 6.8903978 },
+            { "category": "GOBCO", "rank": 138084, "percentile": 39.2350823 },
+            { "category": "LVJO", "rank": 89563, "percentile": 66.8404462 },
+            { "category": "LOBCO", "rank": 140046, "percentile": 38.4109612 },
+            { "category": "EWS", "rank": 158305, "percentile": 23.9858471 }
+          ]
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engg",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 130968, "percentile": 44.3676458 },
+            { "category": "GSCH", "rank": 176573, "percentile": 4.3685242 },
+            { "category": "GOBCH", "rank": 144949, "percentile": 34.8002089 },
+            { "category": "LOPENH", "rank": 135420, "percentile": 41.3261276 },
+            { "category": "LSCH", "rank": 166967, "percentile": 15.5975889 },
+            { "category": "LOBCH", "rank": 137831, "percentile": 39.5390798 },
+            { "category": "GVJH", "rank": 135206, "percentile": 41.3261276 },
+            { "category": "GNT2H", "rank": 148564, "percentile": 31.6234334 },
+            { "category": "LVJH", "rank": 99842, "percentile": 61.8908693 },
+            { "category": "GOPENO", "rank": 104137, "percentile": 60.1291862 },
+            { "category": "GSCO", "rank": 105735, "percentile": 59.0509185 },
+            { "category": "GNT1O", "rank": 144504, "percentile": 34.805294 },
+            { "category": "GNT2O", "rank": 106292, "percentile": 58.1588042 },
+            { "category": "GOBCO", "rank": 106271, "percentile": 58.1588042 },
+            { "category": "LOPENO", "rank": null, "percentile": null },
+            { "category": "LSCO", "rank": null, "percentile": null },
+            { "category": "EWS", "rank": 154534, "percentile": 27.4048925 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Data Science)",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 131146, "percentile": 43.9565943 },
+            { "category": "GSCH", "rank": 134193, "percentile": 42.2207447 },
+            { "category": "GNT2H", "rank": 179299, "percentile": 0.4923189 },
+            { "category": "GOBCH", "rank": 135832, "percentile": 40.99476 },
+            { "category": "LOPENH", "rank": 85689, "percentile": 68.4737144 },
+            { "category": "LSCH", "rank": 130586, "percentile": 44.4778985 },
+            { "category": "LNT1H", "rank": 102630, "percentile": 60.2951569 },
+            { "category": "GOPENO", "rank": 82805, "percentile": 69.7639628 },
+            { "category": "GSCO", "rank": 126706, "percentile": 47.0113809 },
+            { "category": "GVJO", "rank": 93677, "percentile": 65.0377535 },
+            { "category": "GOBCO", "rank": 88077, "percentile": 67.5881106 },
+            { "category": "LOPENO", "rank": 74878, "percentile": 73.1237323 },
+            { "category": "LSCO", "rank": 102157, "percentile": 60.5030966 }
+          ]
+        }
+      },
+      {
+        "branch": "Artificial Intelligence",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 98257, "percentile": 62.8351694 },
+            { "category": "GSCH", "rank": 102703, "percentile": 60.2951569 },
+            { "category": "GNT1H", "rank": 146661, "percentile": 33.099972 },
+            { "category": "GOBCH", "rank": 118393, "percentile": 52.0276576 },
+            { "category": "LOPENH", "rank": 100777, "percentile": 60.8485656 },
+            { "category": "LOBCH", "rank": 105746, "percentile": 59.0509185 },
+            { "category": "GVJH", "rank": 131367, "percentile": 43.9565943 },
+            { "category": "GSEBCH", "rank": 154075, "percentile": 27.4155342 },
+            { "category": "LNT2H", "rank": 143455, "percentile": 35.5925864 },
+            { "category": "LNT3H", "rank": 171923, "percentile": 9.9567819 },
+            { "category": "GOPENO", "rank": 83972, "percentile": 69.275473 },
+            { "category": "GSCO", "rank": 88106, "percentile": 67.5881106 },
+            { "category": "GOBCO", "rank": 94395, "percentile": 64.6500162 },
+            { "category": "GSEBCO", "rank": 128285, "percentile": 46.2784017 },
+            { "category": "EWS", "rank": 170096, "percentile": 11.9971742 }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",
+    "college_code": "04135",
+    "location": "Nagpur",
+    "status": "Un-Aided",
+    "home_university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 168283, "percentile": 13.9490359 },
+            { "category": "GSTH", "rank": 151789, "percentile": 28.8690743 },
+            { "category": "GNT2H", "rank": 157783, "percentile": 24.3027383 },
+            { "category": "GOBCH", "rank": 174701, "percentile": 6.7863525 },
+            { "category": "LOPENH", "rank": 162949, "percentile": 19.2570952 },
+            {
+              "category": "GSTH_Other",
+              "rank": 166382,
+              "percentile": 15.9989858
+            },
+            { "category": "GOPENO", "rank": 174487, "percentile": 7.151896 },
+            { "category": "GSCO", "rank": 119756, "percentile": 51.1396363 },
+            { "category": "GSTO", "rank": 167446, "percentile": 15.201762 },
+            { "category": "GOBCO", "rank": 125998, "percentile": 47.4576949 },
+            { "category": "LOPENO", "rank": 162069, "percentile": 20.7289199 },
+            { "category": "LOBCO", "rank": 105778, "percentile": 59.0509185 },
+            { "category": "LOBCH", "rank": 174424, "percentile": 7.151896 },
+            { "category": "EWS", "rank": 168530, "percentile": 13.6621028 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 107774, "percentile": 57.414259 },
+            { "category": "GSCH", "rank": 122255, "percentile": 49.7949643 },
+            { "category": "GSTH", "rank": 116098, "percentile": 53.517849 },
+            { "category": "GVJH", "rank": 110099, "percentile": 56.9588351 },
+            { "category": "GNT1H", "rank": 113163, "percentile": 54.7526673 },
+            { "category": "GNT2H", "rank": 158738, "percentile": 22.974757 },
+            { "category": "LOPENH", "rank": 119864, "percentile": 51.1396363 },
+            {
+              "category": "GSTH_Other",
+              "rank": 152787,
+              "percentile": 28.0884374
+            },
+            {
+              "category": "GVJH_Other",
+              "rank": 103655,
+              "percentile": 60.1504384
+            },
+            { "category": "GSEBCH", "rank": 140451, "percentile": 38.0295157 },
+            { "category": "GOPENO", "rank": 95928, "percentile": 63.5258359 },
+            { "category": "GSCO", "rank": 100526, "percentile": 61.3261708 },
+            { "category": "GOBCO", "rank": 107576, "percentile": 57.414259 },
+            { "category": "LOPENO", "rank": 77855, "percentile": 71.7682877 },
+            { "category": "LSCO", "rank": 80377, "percentile": 70.8722936 },
+            { "category": "LOBCO", "rank": 105257, "percentile": 59.8892661 },
+            { "category": "LSTO", "rank": 178858, "percentile": 1.1851062 },
+            { "category": "EWS", "rank": 179164, "percentile": 0.6870352 }
+          ]
+        }
+      },
+      {
+        "branch": "Information Technology",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 122262, "percentile": 49.7949643 },
+            { "category": "GSCH", "rank": 134385, "percentile": 42.2200941 },
+            { "category": "GNT1H", "rank": 130357, "percentile": 44.5064233 },
+            { "category": "GOBCH", "rank": 125572, "percentile": 47.6302148 },
+            { "category": "LOPENH", "rank": 115834, "percentile": 53.7424491 },
+            { "category": "LNT2H", "rank": 122711, "percentile": 49.6193645 },
+            {
+              "category": "GSTH_Other",
+              "rank": 153264,
+              "percentile": 27.815423
+            },
+            {
+              "category": "GVJH_Other",
+              "rank": 131370,
+              "percentile": 43.9565943
+            },
+            { "category": "GOPENO", "rank": 119019, "percentile": 51.2783205 },
+            { "category": "GSCO", "rank": null, "percentile": null },
+            { "category": "GNT2O", "rank": 158093, "percentile": 24.0053974 },
+            { "category": "GNT3O", "rank": 139565, "percentile": 38.7773761 },
+            { "category": "GOBCO", "rank": 145236, "percentile": 34.5790896 },
+            { "category": "LOPENO", "rank": 108409, "percentile": 57.2537563 },
+            { "category": "LSCO", "rank": 117493, "percentile": 52.2046883 },
+            { "category": "LOBCO", "rank": 109725, "percentile": 57.0470967 },
+            { "category": "LNT1O", "rank": 138063, "percentile": 39.2350823 },
+            { "category": "EWS", "rank": 116552, "percentile": 52.9935209 }
+          ]
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 148408, "percentile": 31.6884901 },
+            { "category": "GSCH", "rank": 163037, "percentile": 19.1366185 },
+            { "category": "GNT1H", "rank": 157896, "percentile": 24.0471793 },
+            { "category": "GOBCH", "rank": 152155, "percentile": 28.7732713 },
+            { "category": "LSCH", "rank": 142437, "percentile": 36.2134011 },
+            { "category": "LOBCH", "rank": 178009, "percentile": 2.4044963 },
+            {
+              "category": "GSTH_Other",
+              "rank": 168524,
+              "percentile": 13.6621028
+            },
+            { "category": "LNT3H", "rank": 146534, "percentile": 33.099972 },
+            { "category": "GOPENO", "rank": 127931, "percentile": 46.3188381 },
+            { "category": "GSCO", "rank": 146838, "percentile": 32.8923205 },
+            { "category": "GSTO", "rank": 173590, "percentile": 8.032746 },
+            { "category": "GOBCO", "rank": 137866, "percentile": 39.5390798 },
+            { "category": "LOPENO", "rank": 158667, "percentile": 23.9454765 },
+            { "category": "LVJO", "rank": 176771, "percentile": 4.0661895 }
+          ]
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engg",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 122152, "percentile": 50.0353239 },
+            { "category": "GSCH", "rank": 140558, "percentile": 38.0295157 },
+            { "category": "GOBCH", "rank": 131376, "percentile": 43.9565943 },
+            { "category": "LOPENH", "rank": 135226, "percentile": 41.3261276 },
+            { "category": "LOBCH", "rank": 143334, "percentile": 35.5925864 },
+            { "category": "GVJH", "rank": 149193, "percentile": 31.3198919 },
+            { "category": "GOPENO", "rank": 118603, "percentile": 51.7862916 },
+            { "category": "GSCO", "rank": 130097, "percentile": 44.5064233 },
+            { "category": "GOBCO", "rank": 122243, "percentile": 49.7949643 },
+            { "category": "EWS", "rank": 130529, "percentile": 44.4778985 }
+          ]
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "round1": [
+            { "category": "GOPENH", "rank": 163848, "percentile": 18.576741 },
+            { "category": "GSCH", "rank": 150739, "percentile": 30.3265615 },
+            { "category": "GOBCH", "rank": 173159, "percentile": 8.8405987 },
+            { "category": "LOPENH", "rank": 154484, "percentile": 27.4048925 },
+            { "category": "LSCH", "rank": 174608, "percentile": 6.8368204 },
+            { "category": "LNT1H", "rank": 172229, "percentile": 9.6243746 },
+            { "category": "GOPENO", "rank": 178469, "percentile": 1.7748479 },
+            { "category": "LOBCO", "rank": 138876, "percentile": 38.8849565 },
+            { "category": "GSCO", "rank": 153493, "percentile": 27.6622718 },
+            { "category": "GOBCO", "rank": 163844, "percentile": 18.576741 },
+            { "category": "LSCO", "rank": 160621, "percentile": 21.4924132 },
+            { "category": "LOPENO", "rank": 178044, "percentile": 2.3977754 },
+            { "category": "EWS", "rank": 169210, "percentile": 13.0991478 }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur",
+    "college_code": "04136",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous Linguistic Minority - Hindi",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 120618, "percentile": 50.8618056 },
+            { "category": "LOPENS", "rank": 119524, "percentile": 51.2170385 },
+            { "category": "MI", "rank": 117600, "percentile": 52.2046883 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 50731, "percentile": 82.5540242 },
+            { "category": "LOPENS", "rank": 46308, "percentile": 84.1570554 },
+            { "category": "MI", "rank": 153490, "percentile": 27.6622718 }
+          ]
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 98195, "percentile": 62.8351694 },
+            { "category": "LOPENS", "rank": 91725, "percentile": 65.5509182 },
+            { "category": "MI", "rank": 178105, "percentile": 2.3525003 }
+          ]
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engg",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 68730, "percentile": 75.5247196 },
+            { "category": "LOPENS", "rank": 67772, "percentile": 76.0337773 },
+            { "category": "MI", "rank": 179168, "percentile": 0.6746593 }
+          ]
+        }
+      },
+      {
+        "branch": "Artificial Intelligence",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 55704, "percentile": 80.6344635 },
+            { "category": "LOPENS", "rank": 55185, "percentile": 80.7858869 },
+            { "category": "MI", "rank": 169027, "percentile": 13.5903735 }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Sir Shantilal Badjate Charitable Trust's S. B. Jain Institute of Technology, Management & Research, Nagpur",
+    "college_code": "04137",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous Linguistic Minority - Hindi",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 54252, "percentile": 81.2084441 },
+            { "category": "LOPENS", "rank": 52321, "percentile": 81.8420405 },
+            { "category": "MI", "rank": 179249, "percentile": 0.5934459 }
+          ]
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 90922, "percentile": 65.9366282 },
+            { "category": "LOPENS", "rank": 87420, "percentile": 67.6869909 }
+          ]
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engg",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 71006, "percentile": 74.6830629 },
+            { "category": "LOPENS", "rank": 68651, "percentile": 75.6212581 },
+            { "category": "MI", "rank": 134947, "percentile": 41.8427081 }
+          ]
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 107880, "percentile": 57.3310702 },
+            { "category": "LOPENS", "rank": 102022, "percentile": 60.546705 },
+            { "category": "MI", "rank": 150634, "percentile": 30.3265615 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (AI & ML)",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 60223, "percentile": 78.9969285 },
+            { "category": "LOPENS", "rank": 58509, "percentile": 79.5290328 },
+            { "category": "MI", "rank": 179328, "percentile": 0.4387763 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Data Science)",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 60423, "percentile": 78.956117 },
+            { "category": "LOPENS", "rank": 55777, "percentile": 80.6344635 },
+            { "category": "MI", "rank": 169338, "percentile": 13.0626183 }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Jaidev Education Society, J D College of Engineering and Management, Nagpur",
+    "college_code": "04138",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous Linguistic Minority - Hindi",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 142627, "percentile": 36.2134011 },
+            { "category": "LOPENS", "rank": 137308, "percentile": 40.1066152 },
+            { "category": "MI", "rank": 177818, "percentile": 2.7203264 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 74334, "percentile": 73.4250332 },
+            { "category": "LOPENS", "rank": 70952, "percentile": 74.6830629 },
+            { "category": "MI", "rank": 178659, "percentile": 1.5168516 }
+          ]
+        }
+      },
+      {
+        "branch": "Information Technology",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 87379, "percentile": 67.6869909 },
+            { "category": "LOPENS", "rank": 83145, "percentile": 69.7604398 },
+            { "category": "MI", "rank": 165592, "percentile": 16.6009499 }
+          ]
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 115789, "percentile": 53.7424491 },
+            { "category": "LOPENS", "rank": 118757, "percentile": 51.7862916 },
+            { "category": "MI", "rank": 110648, "percentile": 56.846611 }
+          ]
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engg",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 102557, "percentile": 60.2951569 },
+            { "category": "LOPENS", "rank": 105462, "percentile": 59.3445914 },
+            { "category": "MI", "rank": 174994, "percentile": 6.3063439 }
+          ]
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 126245, "percentile": 47.4207012 },
+            { "category": "LOPENS", "rank": 128414, "percentile": 46.2784017 },
+            { "category": "MI", "rank": 172907, "percentile": 8.946165 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Data Science)",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 99908, "percentile": 61.8908693 },
+            { "category": "LOPENS", "rank": 91473, "percentile": 65.722735 },
+            { "category": "MI", "rank": 168623, "percentile": 13.6621028 }
+          ]
+        }
+      },
+      {
+        "branch": "Artificial Intelligence",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 87181, "percentile": 67.8440824 },
+            { "category": "LOPENS", "rank": 74655, "percentile": 73.3652047 },
+            { "category": "MI", "rank": 169611, "percentile": 12.6135136 }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur",
+    "college_code": "04139",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous Linguistic Minority - Sindhi",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 82512, "percentile": 69.800376 },
+            { "category": "LOPENS", "rank": 73908, "percentile": 73.5848302 },
+            { "category": "MI", "rank": 177864, "percentile": 2.666143 }
+          ]
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 124217, "percentile": 48.6138054 },
+            { "category": "LOPENS", "rank": 115586, "percentile": 53.7694785 }
+          ]
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 125949, "percentile": 47.4576949 },
+            { "category": "LOPENS", "rank": 138256, "percentile": 39.2350823 }
+          ]
+        }
+      },
+      {
+        "branch": "Electronics and Computer Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 107675, "percentile": 57.414259 },
+            { "category": "LOPENS", "rank": 108298, "percentile": 57.2537563 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (AI & ML)",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 97355, "percentile": 63.0701676 },
+            { "category": "LOPENS", "rank": 92087, "percentile": 65.5460439 },
+            { "category": "MI", "rank": 178095, "percentile": 2.3525003 }
+          ]
+        }
+      },
+      {
+        "branch": "Electronics and Communication (Advanced Communication Technology)",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 111438, "percentile": 55.8763225 },
+            { "category": "LOPENS", "rank": 110979, "percentile": 56.0103934 }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering & Management, Nagpur",
+    "college_code": "04142",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous Linguistic Minority - Hindi",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 100063, "percentile": 61.8908693 },
+            { "category": "LOPENS", "rank": 102899, "percentile": 60.2921536 },
+            { "category": "MI", "rank": 171771, "percentile": 10.3145909 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 33652, "percentile": 88.6037289 },
+            { "category": "LOPENS", "rank": 31386, "percentile": 89.3399508 },
+            { "category": "MI", "rank": 113891, "percentile": 54.3568289 }
+          ]
+        }
+      },
+      {
+        "branch": "Information Technology",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 36865, "percentile": 87.4969245 },
+            { "category": "LOPENS", "rank": 39160, "percentile": 86.7111001 },
+            { "category": "MI", "rank": 140126, "percentile": 38.4109612 }
+          ]
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 80228, "percentile": 70.8722936 },
+            { "category": "LOPENS", "rank": 81655, "percentile": 70.4092512 },
+            { "category": "MI", "rank": 179302, "percentile": 0.4841402 }
+          ]
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 45305, "percentile": 84.5114907 },
+            { "category": "LOPENS", "rank": 50144, "percentile": 82.7090241 },
+            { "category": "MI", "rank": 176870, "percentile": 3.9959277 }
+          ]
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 91761, "percentile": 65.5509182 },
+            { "category": "LOPENS", "rank": 118861, "percentile": 51.7862916 },
+            { "category": "MI", "rank": 178260, "percentile": 2.1035128 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Cyber Security)",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 43487, "percentile": 85.1704164 },
+            { "category": "LOPENS", "rank": 42443, "percentile": 85.4383663 },
+            { "category": "MI", "rank": 156136, "percentile": 25.5936912 }
+          ]
+        }
+      },
+      {
+        "branch": "Data Science",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 51568, "percentile": 82.1766955 },
+            { "category": "LOPENS", "rank": 44749, "percentile": 84.5942451 },
+            { "category": "MI", "rank": 164707, "percentile": 17.776617 }
+          ]
+        }
+      },
+      {
+        "branch": "Artificial Intelligence",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 48576, "percentile": 83.4009466 },
+            { "category": "LOPENS", "rank": 44468, "percentile": 84.6402007 },
+            { "category": "MI", "rank": 159076, "percentile": 22.5662265 }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur",
+    "college_code": "04144",
+    "location": "Nagpur",
+    "status": "Un-Aided Home University",
+    "home_university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "Home University Seats": [
+            { "category": "GOPENH", "rank": 142935, "percentile": 36.0381755 },
+            { "category": "GSCH", "rank": 156552, "percentile": 25.0606208 },
+            { "category": "GSTH", "rank": 179475, "percentile": 0.2417918 },
+            { "category": "GNT1H", "rank": 151792, "percentile": 28.8690743 },
+            { "category": "GOBCH", "rank": 151157, "percentile": 29.3071786 },
+            { "category": "LOPENH", "rank": 127301, "percentile": 46.3828235 }
+          ],
+          "Home University Seats for Other Candidates": [
+            { "category": "GVJH", "rank": 152195, "percentile": 28.7003692 },
+            { "category": "GVJH", "rank": 144502, "percentile": 34.805294 }
+          ],
+          "Other Than Home University Seats": [
+            { "category": "GOPENO", "rank": 139506, "percentile": 38.7773761 },
+            { "category": "GSCO", "rank": 162288, "percentile": 20.1344161 },
+            { "category": "GOBCO", "rank": 147927, "percentile": 32.0977394 },
+            { "category": "LOPENO", "rank": 96719, "percentile": 63.2340107 },
+            { "category": "LOBCO", "rank": 135756, "percentile": 41.0394031 },
+            { "category": "LOBCO", "rank": 176281, "percentile": 4.9021985 },
+            { "category": "LOBCO", "rank": 156273, "percentile": 25.5139718 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "Home University Seats": [
+            { "category": "GOPENH", "rank": 94108, "percentile": 64.9513096 },
+            { "category": "GSCH", "rank": 104190, "percentile": 60.1291862 },
+            { "category": "GSTH", "rank": 134869, "percentile": 41.8427081 },
+            { "category": "GNT2H", "rank": 122872, "percentile": 49.513096 },
+            { "category": "GOBCH", "rank": 107019, "percentile": 57.9919409 },
+            { "category": "LOPENH", "rank": 70721, "percentile": 74.9324465 },
+            { "category": "LNT1H", "rank": 88979, "percentile": 67.0458361 }
+          ],
+          "Home University Seats for Other Candidates": [
+            { "category": "GVJH", "rank": 113687, "percentile": 54.3568289 },
+            { "category": "GNT2H", "rank": 118941, "percentile": 51.2783205 },
+            { "category": "LVJH", "rank": 115582, "percentile": 53.7694785 },
+            { "category": "LNT2H", "rank": 118890, "percentile": 51.2783205 },
+            { "category": "LNT3H", "rank": 142409, "percentile": 36.2134011 }
+          ],
+          "Other Than Home University Seats": [
+            { "category": "GOPENO", "rank": 123507, "percentile": 48.777949 },
+            { "category": "LOPENO", "rank": 110819, "percentile": 56.5649954 },
+            { "category": "LSCO", "rank": 96663, "percentile": 63.2340107 },
+            { "category": "LNT3O", "rank": 170715, "percentile": 11.4858097 },
+            { "category": "LOBCO", "rank": 104659, "percentile": 59.9791975 },
+            { "category": "GOPENO", "rank": 86943, "percentile": 67.8622856 },
+            { "category": "GOPENO", "rank": 89302, "percentile": 66.8505265 },
+            { "category": "GOPENO", "rank": 108114, "percentile": 57.3310702 },
+            { "category": "GOPENO", "rank": 93725, "percentile": 65.0377535 },
+            { "category": "GOPENO", "rank": 117560, "percentile": 52.2046883 },
+            { "category": "GOPENO", "rank": 94437, "percentile": 64.6500162 }
+          ],
+          "Other Than Home University Seats for Home University Candidates": [
+            { "category": "GSTO", "rank": 167461, "percentile": 15.201762 }
+          ],
+          "State Level": [
+            {
+              "category": "DEFOPENS",
+              "rank": 132703,
+              "percentile": 43.1231034
+            },
+            { "category": "ORPHAN", "rank": 166448, "percentile": 15.9989858 },
+            { "category": "EWS", "rank": 169285, "percentile": 13.0991478 },
+            { "category": "EWS", "rank": 172090, "percentile": 9.8530334 },
+            { "category": "EWS", "rank": 84070, "percentile": 69.275473 },
+            { "category": "EWS", "rank": 107819, "percentile": 57.414259 },
+            { "category": "EWS", "rank": 87638, "percentile": 67.6158803 },
+            { "category": "LSEBCO", "rank": 157572, "percentile": 24.3094646 }
+          ]
+        }
+      },
+      {
+        "branch": "Information Technology",
+        "cutoffs": {
+          "Home University Seats": [
+            { "category": "GOPENH", "rank": 108117, "percentile": 57.3310702 },
+            { "category": "GSCH", "rank": 111159, "percentile": 56.0103934 },
+            { "category": "GNT1H", "rank": 109323, "percentile": 57.1543272 },
+            { "category": "GNT2H", "rank": 116328, "percentile": 53.517849 },
+            { "category": "GOBCH", "rank": 111271, "percentile": 55.8763225 },
+            { "category": "LOPENH", "rank": 99974, "percentile": 61.8908693 }
+          ],
+          "Home University Seats for Other Candidates": [
+            { "category": "GSTH", "rank": 88290, "percentile": 67.5033807 },
+            { "category": "GVJH", "rank": 90758, "percentile": 65.9366282 },
+            { "category": "GNT3H", "rank": 134365, "percentile": 42.2200941 },
+            { "category": "GNT3H", "rank": 105700, "percentile": 59.0509185 }
+          ],
+          "Other Than Home University Seats": [
+            { "category": "GOPENO", "rank": 90670, "percentile": 66.0164943 },
+            { "category": "GSCO", "rank": 92256, "percentile": 65.5460439 },
+            { "category": "GNT2O", "rank": 124953, "percentile": 47.9842799 },
+            { "category": "GOBCO", "rank": 98219, "percentile": 62.8351694 },
+            { "category": "LOPENO", "rank": 69782, "percentile": 75.2159961 },
+            { "category": "LSCO", "rank": 123656, "percentile": 48.777949 },
+            { "category": "LOBCO", "rank": 106611, "percentile": 58.1158577 }
+          ]
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "Home University Seats": [
+            { "category": "GOPENH", "rank": 124488, "percentile": 48.0648514 },
+            { "category": "GSCH", "rank": 128048, "percentile": 46.3188381 },
+            { "category": "GOBCH", "rank": 128793, "percentile": 45.521922 },
+            { "category": "LOPENH", "rank": 110037, "percentile": 56.9588351 },
+            { "category": "LSCH", "rank": 112184, "percentile": 55.2318816 },
+            { "category": "LOBCH", "rank": 124933, "percentile": 47.9842799 }
+          ],
+          "Home University Seats for Other Candidates": [
+            { "category": "LNT2H", "rank": 170507, "percentile": 11.7157385 }
+          ],
+          "Other Than Home University Seats": [
+            { "category": "GOPENO", "rank": 175248, "percentile": 6.2116069 },
+            { "category": "GSCO", "rank": 140076, "percentile": 38.4109612 },
+            { "category": "GNT1O", "rank": 155620, "percentile": 25.6745674 },
+            { "category": "GOBCO", "rank": 166678, "percentile": 15.9803473 },
+            { "category": "LOPENO", "rank": 162798, "percentile": 19.3655345 },
+            { "category": "LVJO", "rank": 123159, "percentile": 48.8696809 },
+            { "category": "LNT2O", "rank": 136458, "percentile": 40.2848342 },
+            { "category": "LOBCO", "rank": 176717, "percentile": 4.1087911 }
+          ]
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "Home University Seats": [
+            { "category": "GOPENH", "rank": 131425, "percentile": 43.9565943 },
+            { "category": "GSCH", "rank": 153741, "percentile": 27.6622718 },
+            { "category": "GSTH", "rank": 147919, "percentile": 32.0977394 },
+            { "category": "GNT1H", "rank": 133423, "percentile": 42.725346 },
+            { "category": "LOPENH", "rank": 138770, "percentile": 38.8849565 },
+            { "category": "LSCH", "rank": 132549, "percentile": 43.4393889 }
+          ],
+          "Home University Seats for Other Candidates": [
+            { "category": "GNT2H", "rank": 169443, "percentile": 13.0626183 },
+            { "category": "GNT2H", "rank": 139590, "percentile": 38.7773761 }
+          ],
+          "Other Than Home University Seats": [
+            { "category": "GOPENO", "rank": 154135, "percentile": 27.4155342 },
+            { "category": "GSCO", "rank": 159186, "percentile": 22.5020163 },
+            { "category": "GOBCO", "rank": 155311, "percentile": 25.7846411 }
+          ],
+          "Other Than Home University Seats for Home University Candidates": [
+            { "category": "LOPENO", "rank": 127698, "percentile": 46.3657898 },
+            { "category": "LSCO", "rank": 146021, "percentile": 33.6953839 },
+            { "category": "LOBCO", "rank": 144506, "percentile": 34.805294 },
+            { "category": "LOBCO", "rank": 152680, "percentile": 28.3301002 }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Wainganga College of Engineering and Management, Dongargaon, Nagpur",
+    "college_code": "04145",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 132175, "percentile": 43.5298862 },
+            { "category": "GSCS", "rank": 159653, "percentile": 22.2282247 },
+            { "category": "GSTS", "rank": 160793, "percentile": 21.472809 },
+            { "category": "GVJS", "rank": 142225, "percentile": 36.6283954 },
+            { "category": "GOBCS", "rank": 146946, "percentile": 32.8923205 },
+            { "category": "GSEBCS", "rank": 154235, "percentile": 27.4155342 },
+            { "category": "LOPENS", "rank": 140697, "percentile": 37.6881791 },
+            { "category": "LSCS", "rank": 172397, "percentile": 9.6053076 },
+            { "category": "LSTS", "rank": 169559, "percentile": 13.0427194 },
+            { "category": "LNT1S", "rank": 146091, "percentile": 33.6953839 }
+          ],
+          "Stage II": [
+            { "category": "GOPENS", "rank": 163095, "percentile": 19.1366185 },
+            { "category": "GSCS", "rank": 138749, "percentile": 38.8849565 }
+          ]
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 86073, "percentile": 68.2901694 },
+            { "category": "GSCS", "rank": 95917, "percentile": 63.5258359 },
+            { "category": "GSTS", "rank": 159837, "percentile": 22.1725851 },
+            { "category": "GVJS", "rank": 88620, "percentile": 67.294477 },
+            { "category": "GNT1S", "rank": 107859, "percentile": 57.414259 },
+            { "category": "GNT2S", "rank": 136082, "percentile": 40.7306838 },
+            { "category": "GNT3S", "rank": 132277, "percentile": 43.4393889 },
+            { "category": "GOBCS", "rank": 94073, "percentile": 64.9513096 },
+            { "category": "GSEBCS", "rank": 167077, "percentile": 15.4906838 },
+            { "category": "LOPENS", "rank": 72327, "percentile": 74.1162962 },
+            { "category": "LSCS", "rank": 76745, "percentile": 72.3242844 },
+            { "category": "LSTS", "rank": 143582, "percentile": 35.3791065 },
+            { "category": "LVJS", "rank": 101836, "percentile": 60.546705 },
+            { "category": "LNT2S", "rank": 100279, "percentile": 61.6354671 },
+            { "category": "LNT3S", "rank": 85297, "percentile": 68.4785771 },
+            { "category": "LOBCS", "rank": 135046, "percentile": 41.8427081 },
+            { "category": "LSEBCS", "rank": 155118, "percentile": 26.1271353 },
+            { "category": "EWS", "rank": 139325, "percentile": 38.7773761 }
+          ]
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 126757, "percentile": 47.0113809 },
+            { "category": "GSCS", "rank": 146367, "percentile": 33.5585964 },
+            { "category": "GVJS", "rank": 135096, "percentile": 41.8427081 },
+            { "category": "GNT2S", "rank": 139862, "percentile": 38.5392182 },
+            { "category": "GOBCS", "rank": 132964, "percentile": 42.8773305 },
+            { "category": "LOPENS", "rank": 125642, "percentile": 47.6302148 },
+            { "category": "LSCS", "rank": 147794, "percentile": 32.1785112 },
+            { "category": "LNT1S", "rank": 167223, "percentile": 15.4858883 },
+            { "category": "LOBCS", "rank": 137077, "percentile": 40.1585977 }
+          ]
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 96519, "percentile": 63.2340107 },
+            { "category": "GSCS", "rank": 105244, "percentile": 59.8892661 },
+            { "category": "GSTS", "rank": 166459, "percentile": 15.9989858 },
+            { "category": "GNT1S", "rank": 113452, "percentile": 54.3920183 },
+            { "category": "GOBCS", "rank": 104657, "percentile": 59.9791975 },
+            { "category": "LOPENS", "rank": 100550, "percentile": 61.3261708 },
+            { "category": "LSCS", "rank": 112534, "percentile": 55.1151268 },
+            { "category": "LVJS", "rank": 165086, "percentile": 17.3380806 },
+            { "category": "LNT2S", "rank": 108857, "percentile": 57.2163252 },
+            { "category": "LOBCS", "rank": 104746, "percentile": 59.9791975 },
+            { "category": "EWS", "rank": 141232, "percentile": 37.2130338 }
+          ]
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 126702, "percentile": 47.0113809 },
+            { "category": "GSCS", "rank": 149924, "percentile": 30.8566205 },
+            { "category": "GSTS", "rank": 161566, "percentile": 20.9410678 },
+            { "category": "GVJS", "rank": 126826, "percentile": 46.5102928 },
+            { "category": "GNT1S", "rank": 141424, "percentile": 37.2130338 },
+            { "category": "GNT2S", "rank": 173971, "percentile": 7.7921536 },
+            { "category": "GOBCS", "rank": 146333, "percentile": 33.5585964 },
+            { "category": "LOPENS", "rank": 157679, "percentile": 24.3027383 },
+            { "category": "LSCS", "rank": 167808, "percentile": 14.7377685 }
+          ],
+          "Stage II": [
+            { "category": "GOPENS", "rank": 152981, "percentile": 27.9969458 }
+          ]
+        }
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science",
+        "cutoffs": {
+          "State Level": [
+            { "category": "GOPENS", "rank": 92650, "percentile": 65.4406319 },
+            { "category": "GSCS", "rank": 103293, "percentile": 60.2294112 },
+            { "category": "GSTS", "rank": 160602, "percentile": 21.4924132 },
+            { "category": "GVJS", "rank": 106616, "percentile": 58.1158577 },
+            { "category": "GNT2S", "rank": 137945, "percentile": 39.5390798 },
+            { "category": "GNT3S", "rank": 132935, "percentile": 42.8773305 },
+            { "category": "GOBCS", "rank": 99569, "percentile": 62.2534756 },
+            { "category": "LOPENS", "rank": 84695, "percentile": 69.0659616 },
+            { "category": "LSCS", "rank": 88589, "percentile": 67.294477 },
+            { "category": "LSTS", "rank": 139481, "percentile": 38.7773761 },
+            { "category": "LVJS", "rank": 109806, "percentile": 57.0470967 },
+            { "category": "LNT1S", "rank": 106299, "percentile": 58.1588042 },
+            { "category": "LNT2S", "rank": 88393, "percentile": 67.5033807 },
+            { "category": "LOBCS", "rank": 146865, "percentile": 32.8923205 },
+            { "category": "Stage II", "rank": 148452, "percentile": 31.6234334 }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "K.D.K. College of Engineering, Nagpur",
+    "college_code": "04147",
+    "location": "Nagpur",
+    "status": "Un-Aided",
+    "home_university": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "home_university_seats_home_candidates": [
+          { "category": "GOPENH", "rank": 117459, "percentile": 52.2046883 },
+          { "category": "GSCH", "rank": 131003, "percentile": 44.3676458 },
+          { "category": "GSTH", "rank": 165416, "percentile": 16.7391126 },
+          { "category": "GOBCH", "rank": 121600, "percentile": 50.0957604 },
+          { "category": "LOPENH", "rank": 102560, "percentile": 60.2951569 },
+          { "category": "LOBCH", "rank": 115752, "percentile": 53.7424491 }
+        ],
+        "home_university_seats_other_candidates": [
+          { "category": "GSTH", "rank": 113036, "percentile": 54.7526673 },
+          { "category": "GNT2H", "rank": 124296, "percentile": 48.6138054 },
+          { "category": "LSTH", "rank": 148483, "percentile": 31.6234334 },
+          { "category": "LNT3H", "rank": 138248, "percentile": 39.2350823 }
+        ],
+        "other_than_home_university_seats_other_candidates": [
+          { "category": "GOPENO", "rank": 133171, "percentile": 42.8773305 },
+          { "category": "GSCO", "rank": 112962, "percentile": 54.7526673 },
+          { "category": "GVJO", "rank": 123339, "percentile": 48.8696809 },
+          { "category": "GOBCO", "rank": 137189, "percentile": 40.1066152 },
+          { "category": "LOPENO", "rank": 119500, "percentile": 51.2170385 },
+          { "category": "LSTO", "rank": 112974, "percentile": 54.7526673 }
+        ],
+        "other_than_home_university_seats_home_candidates": [
+          { "category": "LNT1O", "rank": 140930, "percentile": 37.6014199 }
+        ],
+        "state_level": [
+          { "category": "EWS", "rank": 149171, "percentile": 31.3198919 },
+          { "category": "DEFOPENS", "rank": 126781, "percentile": 47.0113809 },
+          { "category": "DEFSCS", "rank": 145576, "percentile": 34.2191386 }
+        ]
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "home_university_seats_home_candidates": [
+          { "category": "GOPENH", "rank": 59317, "percentile": 79.3458895 },
+          { "category": "GSCH", "rank": 71218, "percentile": 74.5088207 },
+          { "category": "GSTH", "rank": 108621, "percentile": 57.2163252 },
+          { "category": "GVJH", "rank": 101239, "percentile": 60.6237408 },
+          { "category": "GNT1H", "rank": 64743, "percentile": 77.1713278 },
+          { "category": "GNT2H", "rank": 86125, "percentile": 68.2901694 },
+          { "category": "GNT3H", "rank": 122375, "percentile": 49.7949643 },
+          { "category": "GOBCH", "rank": 63058, "percentile": 77.8410928 },
+          { "category": "GSEBCH", "rank": 110009, "percentile": 56.9588351 },
+          { "category": "LOPENH", "rank": 58272, "percentile": 79.6526596 },
+          { "category": "LVJH", "rank": 58272, "percentile": 79.6526596 },
+          { "category": "LNT1H", "rank": 58272, "percentile": 79.6526596 }
+        ],
+        "home_university_seats_other_candidates": [
+          { "category": "GSEBCH", "rank": 128680, "percentile": 45.5784574 },
+          { "category": "LSEBCH", "rank": 95693, "percentile": 63.5370419 }
+        ],
+        "other_than_home_university_seats_other_candidates": [
+          { "category": "GOPENO", "rank": 64456, "percentile": 77.2074577 },
+          { "category": "GSCO", "rank": 94131, "percentile": 64.9513096 },
+          { "category": "GSTO", "rank": 50433, "percentile": 82.7086811 },
+          { "category": "GVJO", "rank": 66171, "percentile": 76.5963466 },
+          { "category": "GNT2O", "rank": 119599, "percentile": 51.1396363 },
+          { "category": "GNT3O", "rank": 64692, "percentile": 77.1713278 },
+          { "category": "GOBCO", "rank": 52037, "percentile": 81.9801476 },
+          { "category": "LOPENO", "rank": 78112, "percentile": 71.716606 },
+          { "category": "LSCO", "rank": 52270, "percentile": 81.8420405 }
+        ],
+        "state_level": [
+          { "category": "DEFOPENS", "rank": 103941, "percentile": 60.1291862 },
+          { "category": "DEFSCS", "rank": 154489, "percentile": 27.4048925 },
+          { "category": "DEFROBCS", "rank": 128190, "percentile": 46.2784017 },
+          { "category": "ORPHAN", "rank": 109085, "percentile": 57.1959853 },
+          { "category": "EWS", "rank": 102616, "percentile": 60.2951569 }
+        ]
+      },
+      {
+        "branch": "Information Technology",
+        "home_university_seats_home_candidates": [
+          { "category": "GOPENH", "rank": 68669, "percentile": 75.6212581 },
+          { "category": "GSCH", "rank": 72722, "percentile": 73.8893284 },
+          { "category": "GSTH", "rank": 125118, "percentile": 47.9076668 },
+          { "category": "GVJH", "rank": 159257, "percentile": 22.5020163 },
+          { "category": "GNT2H", "rank": 85570, "percentile": 68.4737144 },
+          { "category": "GNT3H", "rank": 126597, "percentile": 47.0113809 },
+          { "category": "LOPENH", "rank": 70041, "percentile": 75.1972801 }
+        ],
+        "home_university_seats_other_candidates": [
+          { "category": "GSEBCH", "rank": 107131, "percentile": 57.9919409 }
+        ],
+        "other_than_home_university_seats_other_candidates": [
+          { "category": "GOPENO", "rank": 67300, "percentile": 76.1358545 },
+          { "category": "GSCO", "rank": 71887, "percentile": 74.3614357 },
+          { "category": "GNT1O", "rank": 60078, "percentile": 79.0646435 },
+          { "category": "GOBCO", "rank": 69036, "percentile": 75.3591206 },
+          { "category": "LOPENO", "rank": 62706, "percentile": 77.8445199 },
+          { "category": "LSTO", "rank": 62339, "percentile": 78.1496564 },
+          { "category": "LOBCO", "rank": 54308, "percentile": 81.2084441 },
+          { "category": "LSEBCO", "rank": 126552, "percentile": 47.0113809 }
+        ],
+        "state_level": [
+          { "category": "DEFOPENS", "rank": 130032, "percentile": 44.8929536 },
+          { "category": "EWS", "rank": 129432, "percentile": 45.3423263 },
+          { "category": "DEFOPENS2", "rank": 97327, "percentile": 63.0701676 },
+          { "category": "EWS2", "rank": 61441, "percentile": 78.4440843 }
+        ]
+      },
+      {
+        "branch": "Electrical Engineering",
+        "home_university_seats_home_candidates": [
+          { "category": "GOPENH", "rank": 107109, "percentile": 57.9919409 },
+          { "category": "GSCH", "rank": 121677, "percentile": 50.0957604 },
+          { "category": "GSTH", "rank": 159616, "percentile": 22.2282247 },
+          { "category": "GNT1H", "rank": 139497, "percentile": 38.7773761 },
+          { "category": "GNT3H", "rank": 156736, "percentile": 24.7657909 },
+          { "category": "GOBCH", "rank": 113611, "percentile": 54.3568289 },
+          { "category": "LOPENH", "rank": 90304, "percentile": 66.1855163 }
+        ],
+        "home_university_seats_other_candidates": [
+          { "category": "GNT2H", "rank": 129111, "percentile": 45.4574846 },
+          { "category": "LVJH", "rank": 161237, "percentile": 21.3531102 },
+          { "category": "LNT2H", "rank": 157656, "percentile": 24.3027383 }
+        ],
+        "other_than_home_university_seats_other_candidates": [
+          { "category": "GOPENO", "rank": 103763, "percentile": 60.1504384 },
+          { "category": "GSCO", "rank": 106881, "percentile": 58.1158577 },
+          { "category": "GSTO", "rank": 117663, "percentile": 52.2046883 },
+          { "category": "GOBCO", "rank": 105314, "percentile": 59.3445914 },
+          { "category": "LSCO", "rank": 89424, "percentile": 66.8404462 }
+        ],
+        "state_level": [
+          { "category": "EWS", "rank": 99947, "percentile": 61.8908693 },
+          { "category": "EWS2", "rank": 107571, "percentile": 57.414259 },
+          { "category": "EWS3", "rank": 90565, "percentile": 66.0164943 },
+          { "category": "EWS4", "rank": 108570, "percentile": 57.2163252 },
+          { "category": "EWS5", "rank": 145030, "percentile": 34.8002089 },
+          { "category": "EWS6", "rank": 106413, "percentile": 58.1588042 },
+          { "category": "EWS7", "rank": 101955, "percentile": 60.546705 }
+        ]
+      },
+      {
+        "branch": "Electronics and Telecommunication Engineering",
+        "home_university_seats_home_candidates": [
+          { "category": "GOPENH", "rank": 78426, "percentile": 71.7115 },
+          { "category": "GSCH", "rank": 90866, "percentile": 65.9366282 },
+          { "category": "GSTH", "rank": 176506, "percentile": 4.5424794 },
+          { "category": "GVJH", "rank": 140468, "percentile": 38.0295157 },
+          { "category": "GOBCH", "rank": 82235, "percentile": 69.8140377 },
+          { "category": "LOPENH", "rank": 77213, "percentile": 72.1467831 }
+        ],
+        "home_university_seats_other_candidates": [
+          { "category": "GNT2H", "rank": 104755, "percentile": 59.9791975 },
+          { "category": "LNT3H", "rank": 153153, "percentile": 27.9969458 },
+          { "category": "LNT1O", "rank": 90662, "percentile": 66.0164943 }
+        ],
+        "other_than_home_university_seats_other_candidates": [
+          { "category": "GOPENO", "rank": 156775, "percentile": 24.7657909 },
+          { "category": "GSCO", "rank": 82027, "percentile": 70.2544031 },
+          { "category": "GSTO", "rank": 75712, "percentile": 72.8176141 },
+          { "category": "GVJO", "rank": 80301, "percentile": 70.8722936 },
+          { "category": "GNT1O", "rank": 144098, "percentile": 35.2166182 },
+          { "category": "GNT2O", "rank": 89339, "percentile": 66.8505265 },
+          { "category": "GOBCO", "rank": 94653, "percentile": 64.4664266 },
+          { "category": "LOPENO", "rank": 104170, "percentile": 60.1291862 },
+          { "category": "LSTO", "rank": 76787, "percentile": 72.3242844 }
+        ],
+        "state_level": [
+          { "category": "EWS", "rank": 178011, "percentile": 2.3998331 },
+          { "category": "EWS2", "rank": 170361, "percentile": 11.7746273 },
+          { "category": "EWS3", "rank": 60379, "percentile": 78.956117 },
+          { "category": "EWS4", "rank": 173692, "percentile": 7.8773225 },
+          { "category": "EWS5", "rank": 111708, "percentile": 55.3559436 },
+          { "category": "EWS6", "rank": 60599, "percentile": 78.9173428 }
+        ]
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "home_university_seats_home_candidates": [
+          { "category": "GOPENH", "rank": 117298, "percentile": 52.5184688 },
+          { "category": "GSCH", "rank": 126881, "percentile": 46.5102928 },
+          { "category": "GSTH", "rank": 173642, "percentile": 7.9711444 },
+          { "category": "GNT1H", "rank": 140650, "percentile": 37.6881791 },
+          { "category": "GNT3H", "rank": 146282, "percentile": 33.5585964 },
+          { "category": "GOBCH", "rank": 120068, "percentile": 50.9307179 }
+        ],
+        "home_university_seats_other_candidates": [
+          { "category": "GSTH", "rank": 159401, "percentile": 22.4081803 },
+          { "category": "GNT2H", "rank": 153766, "percentile": 27.5123271 },
+          { "category": "LNT2H", "rank": 152802, "percentile": 28.0884374 }
+        ],
+        "other_than_home_university_seats_other_candidates": [
+          { "category": "GOPENO", "rank": 126330, "percentile": 47.4207012 },
+          { "category": "GSCO", "rank": 140993, "percentile": 37.6014199 },
+          { "category": "LOPENO", "rank": 129537, "percentile": 45.3423263 },
+          { "category": "GOBCO", "rank": 136313, "percentile": 40.7306838 }
+        ],
+        "other_than_home_university_seats_home_candidates": [
+          { "category": "LSCO", "rank": 133498, "percentile": 42.725346 }
+        ],
+        "state_level": [
+          { "category": "EWS", "rank": 178861, "percentile": 1.1851062 },
+          { "category": "EWS2", "rank": 139466, "percentile": 38.7773761 },
+          { "category": "EWS3", "rank": 129695, "percentile": 45.3423263 }
+        ]
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science",
+        "home_university_seats_home_candidates": [
+          { "category": "GOPENH", "rank": 60057, "percentile": 78.9990946 },
+          { "category": "GSCH", "rank": 70221, "percentile": 74.6386113 },
+          { "category": "GSTH", "rank": 111716, "percentile": 55.8322019 },
+          { "category": "GVJH", "rank": 103869, "percentile": 59.8883537 },
+          { "category": "GNT1H", "rank": 64005, "percentile": 77.3091497 },
+          { "category": "GNT2H", "rank": 85442, "percentile": 68.5411183 },
+          { "category": "GNT3H", "rank": 121728, "percentile": 50.5307771 },
+          { "category": "GOBCH", "rank": 61954, "percentile": 78.2599427 },
+          { "category": "LOPENH", "rank": 58079, "percentile": 79.7852597 }
+        ],
+        "home_university_seats_other_candidates": [
+          { "category": "GSEBCH", "rank": 127651, "percentile": 46.0969693 },
+          { "category": "LSEBCH", "rank": 94484, "percentile": 65.0698919 }
+        ],
+        "other_than_home_university_seats_other_candidates": [
+          { "category": "GOPENO", "rank": 64249, "percentile": 77.3091497 },
+          { "category": "GSCO", "rank": 93895, "percentile": 65.247216 },
+          { "category": "GSTO", "rank": 50433, "percentile": 82.7086811 },
+          { "category": "GVJO", "rank": 65704, "percentile": 76.4673807 },
+          { "category": "GNT2O", "rank": 118774, "percentile": 51.7170385 },
+          { "category": "GNT3O", "rank": 64587, "percentile": 77.1713278 },
+          { "category": "GOBCO", "rank": 51836, "percentile": 82.038884 },
+          { "category": "LOPENO", "rank": 78022, "percentile": 71.716606 },
+          { "category": "LSCO", "rank": 52030, "percentile": 81.9801476 }
+        ],
+        "state_level": [
+          { "category": "DEFOPENS", "rank": 103874, "percentile": 60.1732392 },
+          { "category": "DEFSCS", "rank": 154412, "percentile": 27.472123 },
+          { "category": "DEFROBCS", "rank": 128053, "percentile": 46.3902971 },
+          { "category": "ORPHAN", "rank": 108896, "percentile": 57.3628306 },
+          { "category": "EWS", "rank": 102614, "percentile": 60.2984084 }
+        ]
+      }
+    ]
+  },
+  {
+    "college_name": "Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur",
+    "college_code": "04151",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "Round 1",
+    "courses": [
+      {
+        "branch": "Aeronautical Engineering",
+        "branch_code": "0415100210",
+        "state_level": {
+          "GOPENS": { "rank": 94256, "percentile": 64.6500162 },
+          "GSCS": { "rank": 113582, "percentile": 54.3568289 },
+          "GVJS": { "rank": 118656, "percentile": 51.7862916 },
+          "GNT1S": { "rank": 148066, "percentile": 32.0977394 },
+          "GNT2S": { "rank": 125113, "percentile": 47.9076668 },
+          "GOBCS": { "rank": 111340, "percentile": 55.8763225 },
+          "GSEBCS": { "rank": 118499, "percentile": 52.0276576 },
+          "LOPENS": { "rank": 101695, "percentile": 60.546705 }
+        }
+      },
+      {
+        "branch": "Bio Technology",
+        "branch_code": "0415108210",
+        "state_level": {
+          "GOPENS": { "rank": 23252, "percentile": 92.7645788 },
+          "GSCS": { "rank": 32014, "percentile": 89.9335278 },
+          "GSTS": { "rank": 159001, "percentile": 27.4155342 },
+          "GVJS": { "rank": 35052, "percentile": 88.9733295 },
+          "GNT1S": { "rank": 97873, "percentile": 65.5460439 },
+          "GNT2S": { "rank": 36435, "percentile": 88.5327053 },
+          "GNT3S": { "rank": 38575, "percentile": 87.8484049 },
+          "GOBCS": { "rank": 26590, "percentile": 91.7398782 },
+          "GSEBCS": { "rank": 66783, "percentile": 77.8567655 },
+          "LOPENS": { "rank": 18629, "percentile": 94.2408377 }
+        }
+      },
+      {
+        "branch": "Civil Engineering",
+        "branch_code": "0415119110",
+        "state_level": {
+          "GOPENS": { "rank": 151949, "percentile": 33.5216747 },
+          "GSCS": { "rank": 44729, "percentile": 85.6606254 },
+          "GSTS": { "rank": 34175, "percentile": 89.2670772 },
+          "GVJS": { "rank": 21416, "percentile": 93.3618542 },
+          "GNT1S": { "rank": 152407, "percentile": 28.7003692 },
+          "PWDOPENS": { "rank": 112458, "percentile": 55.1151268 },
+          "LOBCS": { "rank": 144346, "percentile": 34.8626522 }
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "branch_code": "0415124210",
+        "state_level": {
+          "GOPENS": { "rank": 142457, "percentile": 36.2134011 },
+          "GNT2S": { "rank": 129192, "percentile": 45.4574846 },
+          "GNT3S": { "rank": 125546, "percentile": 47.6302148 },
+          "GOBCS": { "rank": 141525, "percentile": 36.9291471 },
+          "GSEBCS": { "rank": 153502, "percentile": 27.6622718 },
+          "LOPENS": { "rank": 148809, "percentile": 31.4286926 },
+          "LSCS": { "rank": 134871, "percentile": 41.8427081 },
+          "LVJS": { "rank": 171459, "percentile": 10.8656299 },
+          "EWS": { "rank": 178976, "percentile": 0.9864003 },
+          "LNT2S": { "rank": 30922, "percentile": 90.3529085 },
+          "LNT3S": { "rank": 85687, "percentile": 68.4737144 }
+        }
+      },
+      {
+        "branch": "Information Technology",
+        "branch_code": "0415124610",
+        "state_level": {
+          "GOPENS": { "rank": 92223, "percentile": 65.5460439 },
+          "GSCS": { "rank": 104057, "percentile": 60.1291862 },
+          "GSTS": { "rank": 141291, "percentile": 37.2130338 },
+          "GVJS": { "rank": 97799, "percentile": 62.8733646 },
+          "GNT1S": { "rank": 102816, "percentile": 60.2921536 },
+          "GNT2S": { "rank": 120043, "percentile": 50.9307179 },
+          "GNT3S": { "rank": 113269, "percentile": 54.3920183 },
+          "GOBCS": { "rank": 98245, "percentile": 62.8351694 },
+          "GSEBCS": { "rank": 135150, "percentile": 41.3261276 },
+          "LOPENS": { "rank": 87002, "percentile": 67.8622856 },
+          "LSCS": { "rank": 96564, "percentile": 63.2340107 },
+          "LVJS": { "rank": 92344, "percentile": 65.4406319 },
+          "LNT1S": { "rank": 108065, "percentile": 57.3310702 },
+          "LNT2S": { "rank": 110762, "percentile": 56.5649954 },
+          "LNT3S": { "rank": 93680, "percentile": 65.0377535 },
+          "LOBCS": { "rank": 103214, "percentile": 60.2294112 },
+          "PWDOPENS": { "rank": 174672, "percentile": 6.8368204 }
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "branch_code": "0415129310",
+        "state_level": {
+          "GOPENS": { "rank": 121671, "percentile": 50.0957604 },
+          "GSCS": { "rank": 133276, "percentile": 42.725346 },
+          "GSTS": { "rank": 164149, "percentile": 18.4142776 },
+          "GVJS": { "rank": 159281, "percentile": 22.5020163 },
+          "GNT1S": { "rank": 125145, "percentile": 47.9076668 },
+          "GNT2S": { "rank": 169883, "percentile": 12.6044134 },
+          "GNT3S": { "rank": 163989, "percentile": 18.5574725 },
+          "GOBCS": { "rank": 127901, "percentile": 46.3188381 },
+          "LOPENS": { "rank": 114997, "percentile": 53.8203081 },
+          "LSCS": { "rank": 137670, "percentile": 39.7481853 },
+          "LSTS": { "rank": 153313, "percentile": 27.815423 },
+          "LVJS": { "rank": 140206, "percentile": 38.4109612 },
+          "LNT2S": { "rank": 162929, "percentile": 19.2570952 },
+          "LOBCS": { "rank": 124268, "percentile": 48.6138054 }
+        }
+      },
+      {
+        "branch": "Electronics and Communication Engineering",
+        "branch_code": "0415137010",
+        "state_level": {
+          "GOPENS": { "rank": 117425, "percentile": 52.2046883 },
+          "GSCS": { "rank": 131198, "percentile": 43.9565943 },
+          "GVJS": { "rank": 157276, "percentile": 24.4231968 },
+          "GNT1S": { "rank": 128754, "percentile": 45.5784574 },
+          "GNT2S": { "rank": 162530, "percentile": 19.4065824 },
+          "GNT3S": { "rank": 175865, "percentile": 5.2422847 },
+          "GOBCS": { "rank": 125033, "percentile": 47.9842799 },
+          "LOPENS": { "rank": 113361, "percentile": 54.3920183 },
+          "LSCS": { "rank": 122274, "percentile": 49.7949643 },
+          "LSTS": { "rank": 131655, "percentile": 43.8452614 },
+          "LVJS": { "rank": 151417, "percentile": 29.3071786 },
+          "LNT1S": { "rank": 113203, "percentile": 54.7526673 },
+          "LNT2S": { "rank": 134366, "percentile": 42.2200941 },
+          "LOBCS": { "rank": 120924, "percentile": 50.6340761 },
+          "ORPHAN": { "rank": 179555, "percentile": 0.1218769 },
+          "EWS": { "rank": 163458, "percentile": 18.7034184 }
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "branch_code": "0415161210",
+        "state_level": {
+          "GOPENS": { "rank": 130217, "percentile": 44.5064233 },
+          "GSCS": { "rank": 135938, "percentile": 40.99476 },
+          "GSTS": { "rank": 176376, "percentile": 4.7766958 },
+          "GVJS": { "rank": 168557, "percentile": 13.6621028 },
+          "GNT1S": { "rank": 136293, "percentile": 40.7306838 },
+          "GOBCS": { "rank": 138229, "percentile": 39.2350823 },
+          "LOPENS": { "rank": 148099, "percentile": 32.0977394 },
+          "LSCS": { "rank": 161146, "percentile": 21.3531102 },
+          "LVJS": { "rank": 153839, "percentile": 27.5123271 },
+          "LNT1S": { "rank": 154074, "percentile": 27.4155342 },
+          "LOBCS": { "rank": 159006, "percentile": 22.5662265 },
+          "EWS": { "rank": 177163, "percentile": 3.6167117 }
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_code": "0415191210",
+        "state_level": {
+          "GOPENS": { "rank": 102245, "percentile": 60.5030966 },
+          "GSCS": { "rank": 110735, "percentile": 56.5649954 },
+          "GSTS": { "rank": 177016, "percentile": 3.8708587 },
+          "GVJS": { "rank": 142713, "percentile": 36.0381755 },
+          "GNT1S": { "rank": 113013, "percentile": 54.7526673 },
+          "GNT2S": { "rank": 143713, "percentile": 35.3791065 },
+          "GNT3S": { "rank": 140895, "percentile": 37.6014199 },
+          "GOBCS": { "rank": 107265, "percentile": 57.8688386 },
+          "LOPENS": { "rank": 89525, "percentile": 66.8404462 },
+          "LSCS": { "rank": 106375, "percentile": 58.1588042 },
+          "LNT2S": { "rank": 146271, "percentile": 33.5585964 },
+          "LNT3S": { "rank": 99705, "percentile": 62.2534756 },
+          "LOBCS": { "rank": 100751, "percentile": 60.8485656 },
+          "PWDOPENS": { "rank": 171946, "percentile": 9.9567819 },
+          "ORPHAN": { "rank": 173187, "percentile": 8.8405987 },
+          "EWS": { "rank": 175165, "percentile": 6.2330849 }
+        }
+      },
+      {
+        "branch": "Artificial Intelligence and Machine Learning",
+        "branch_code": "0415192110",
+        "state_level": {
+          "GOPENS": { "rank": 102567, "percentile": 60.2951569 },
+          "GSCS": { "rank": 116929, "percentile": 52.814879 },
+          "GSTS": { "rank": 165188, "percentile": 17.3380806 },
+          "GVJS": { "rank": 146925, "percentile": 32.8923205 },
+          "GNT1S": { "rank": 111839, "percentile": 55.3559436 },
+          "GNT2S": { "rank": 140979, "percentile": 37.6014199 },
+          "GNT3S": { "rank": 153907, "percentile": 27.5123271 },
+          "GOBCS": { "rank": 110832, "percentile": 56.5649954 },
+          "LOPENS": { "rank": 89893, "percentile": 66.4751458 },
+          "LSCS": { "rank": 122960, "percentile": 49.513096 },
+          "LVJS": { "rank": 100997, "percentile": 60.8485656 },
+          "LNT1S": { "rank": 110508, "percentile": 56.846611 },
+          "LNT2S": { "rank": 105056, "percentile": 59.8892661 },
+          "LNT3S": { "rank": 106868, "percentile": 58.1158577 },
+          "LOBCS": { "rank": 154640, "percentile": 27.1532908 },
+          "PWDOPENS": { "rank": 175252, "percentile": 6.2116069 },
+          "ORPHAN": { "rank": 167763, "percentile": 14.7377685 },
+          "EWS": { "rank": 156168, "percentile": 25.5936912 }
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "college_code": "04167",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "CAP Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "branch_code": "0416719110",
+        "state_level": {
+          "GOPENS": { "rank": 70544, "percentile": 74.9709109 },
+          "GSCS": { "rank": 86500, "percentile": 68.0717863 },
+          "GSTS": { "rank": 133992, "percentile": 42.2207447 },
+          "GVJS": { "rank": 107820, "percentile": 57.414259 },
+          "GNT1S": { "rank": 104727, "percentile": 59.9791975 },
+          "GNT2S": { "rank": 82742, "percentile": 69.800376 },
+          "GNT3S": { "rank": 138241, "percentile": 39.2350823 },
+          "GOBCS": { "rank": 81151, "percentile": 70.5008347 },
+          "GSEBCS": { "rank": 108789, "percentile": 57.2163252 },
+          "LOPENS": { "rank": 68244, "percentile": 75.8854903 },
+          "LSCS": { "rank": 82356, "percentile": 69.8140377 },
+          "LSTS": { "rank": 174575, "percentile": 6.8903978 },
+          "LVJS": { "rank": 142236, "percentile": 36.6283954 },
+          "LNT1S": { "rank": 106507, "percentile": 58.1588042 },
+          "LNT2S": { "rank": 159457, "percentile": 22.4081803 },
+          "LOBCS": { "rank": 76767, "percentile": 72.3242844 },
+          "DEFOPENS": { "rank": 144570, "percentile": 34.805294 },
+          "DEFSCS": { "rank": 177073, "percentile": 3.8658496 },
+          "DEFOBCS": { "rank": 84367, "percentile": 69.2652564 },
+          "EWS": { "rank": 179132, "percentile": 0.7400888 }
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering",
+        "branch_code": "0416724210",
+        "state_level": {
+          "GOPENS": { "rank": 15034, "percentile": 95.033389 },
+          "GSCS": { "rank": 23392, "percentile": 92.2260059 },
+          "GSTS": { "rank": 59291, "percentile": 79.4055287 },
+          "GVJS": { "rank": 32225, "percentile": 89.1373005 },
+          "GNT1S": { "rank": 16350, "percentile": 94.5726998 },
+          "GNT2S": { "rank": 26459, "percentile": 91.1978661 },
+          "GNT3S": { "rank": 33698, "percentile": 88.6037289 },
+          "GOBCS": { "rank": 15908, "percentile": 94.7536895 },
+          "GSEBCS": { "rank": 33299, "percentile": 88.7353399 },
+          "LOPENS": { "rank": 13334, "percentile": 95.5794695 },
+          "LSCS": { "rank": 25007, "percentile": 91.6345444 },
+          "LSTS": { "rank": 50959, "percentile": 82.4751693 },
+          "LVJS": { "rank": 42331, "percentile": 85.4541675 },
+          "LNT1S": { "rank": 16097, "percentile": 94.6546232 },
+          "LNT2S": { "rank": 20717, "percentile": 93.0771189 },
+          "LNT3S": { "rank": 36453, "percentile": 87.5598503 },
+          "LOBCS": { "rank": 15433, "percentile": 94.8397684 },
+          "LSEBCS": { "rank": 32539, "percentile": 89.0036224 },
+          "PWDOPENS": { "rank": 44900, "percentile": 84.5731157 },
+          "PWDSCS": { "rank": 80487, "percentile": 70.6178643 },
+          "PWDOBCS": { "rank": 97620, "percentile": 62.902955 },
+          "DEFOPENS": { "rank": 27982, "percentile": 90.5913294 },
+          "DEFSCS": { "rank": 54705, "percentile": 81.0485225 },
+          "DEFOBCS": { "rank": 44442, "percentile": 84.6402007 },
+          "DEFROBCS": { "rank": 59971, "percentile": 79.0646435 },
+          "EWS": { "rank": 44793, "percentile": 84.5942451 }
+        }
+      },
+      {
+        "branch": "Information Technology",
+        "branch_code": "0416724610",
+        "state_level": {
+          "GOPENS": { "rank": 21987, "percentile": 92.66353 },
+          "GSCS": { "rank": 29194, "percentile": 90.1648893 },
+          "GSTS": { "rank": 84322, "percentile": 69.2652564 },
+          "GVJS": { "rank": 38287, "percentile": 86.8966951 },
+          "GNT1S": { "rank": 26652, "percentile": 91.0655077 },
+          "GNT2S": { "rank": 29308, "percentile": 90.1066152 },
+          "GNT3S": { "rank": 49141, "percentile": 82.9978985 },
+          "GOBCS": { "rank": 23349, "percentile": 92.2405432 },
+          "GSEBCS": { "rank": 44476, "percentile": 84.6402007 },
+          "LOPENS": { "rank": 21318, "percentile": 92.9064162 },
+          "LSCS": { "rank": 31675, "percentile": 89.2835379 },
+          "LSTS": { "rank": 66325, "percentile": 76.5404634 },
+          "LVJS": { "rank": 50722, "percentile": 82.5540242 },
+          "LNT1S": { "rank": 23720, "percentile": 92.1089443 },
+          "LNT2S": { "rank": 28757, "percentile": 90.3847828 },
+          "LNT3S": { "rank": 23478, "percentile": 92.2022952 },
+          "LOBCS": { "rank": 43005, "percentile": 85.3422371 },
+          "LSEBCS": { "rank": 116966, "percentile": 52.814879 },
+          "PWDOPENS": { "rank": 168632, "percentile": 13.6621028 },
+          "PWDSCS": { "rank": 172469, "percentile": 9.5534224 },
+          "PWDOBCS": { "rank": 52580, "percentile": 81.8151897 },
+          "DEFOPENS": { "rank": 83111, "percentile": 69.7604398 },
+          "DEFSCS": { "rank": 58935, "percentile": 79.4895283 },
+          "DEFOBCS": { "rank": 53941, "percentile": 81.3738935 },
+          "DEFROBCS": { "rank": 36503, "percentile": 87.5123219 },
+          "EWS": { "rank": 0, "percentile": 0 }
+        }
+      },
+      {
+        "branch": "Computer Technology",
+        "branch_code": "0416725110",
+        "state_level": {
+          "GOPENS": { "rank": 24260, "percentile": 91.9110293 },
+          "GSCS": { "rank": 34546, "percentile": 88.1925789 },
+          "GSTS": { "rank": 87715, "percentile": 67.6158803 },
+          "GVJS": { "rank": 41422, "percentile": 85.8772819 },
+          "GNT1S": { "rank": 31855, "percentile": 89.2602313 },
+          "GNT2S": { "rank": 29326, "percentile": 90.1066152 },
+          "GNT3S": { "rank": 45213, "percentile": 84.5114907 },
+          "GOBCS": { "rank": 25400, "percentile": 91.5477593 },
+          "GSEBCS": { "rank": 60306, "percentile": 78.9969285 },
+          "LOPENS": { "rank": 23503, "percentile": 92.2022952 },
+          "LSCS": { "rank": 36744, "percentile": 87.5005698 },
+          "LSTS": { "rank": 94163, "percentile": 64.9513096 },
+          "LVJS": { "rank": 92802, "percentile": 65.3627105 },
+          "LNT2S": { "rank": 29523, "percentile": 90.0724101 },
+          "LNT3S": { "rank": 117688, "percentile": 52.2046883 },
+          "LOBCS": { "rank": 25056, "percentile": 91.6309281 },
+          "LSEBCS": { "rank": 44822, "percentile": 84.5942451 },
+          "PWDOPENS": { "rank": 166371, "percentile": 16.1364215 },
+          "DEFOPENS": { "rank": 67931, "percentile": 76.0337773 },
+          "EWS": { "rank": 106076, "percentile": 58.5786927 }
+        }
+      },
+      {
+        "branch": "Computer Science and Design",
+        "branch_code": "0416725710",
+        "state_level": {
+          "GOPENS": { "rank": 27383, "percentile": 90.8293494 },
+          "GSCS": { "rank": 32829, "percentile": 88.890236 },
+          "GSTS": { "rank": 104641, "percentile": 59.9791975 },
+          "GNT2S": { "rank": 32042, "percentile": 89.1945571 },
+          "GNT3S": { "rank": 51382, "percentile": 82.1878954 },
+          "GOBCS": { "rank": 28675, "percentile": 90.3886926 },
+          "GSEBCS": { "rank": 62138, "percentile": 78.1946121 },
+          "LOPENS": { "rank": 27556, "percentile": 90.7979989 },
+          "LSCS": { "rank": 39217, "percentile": 86.6547892 },
+          "LOBCS": { "rank": 81181, "percentile": 70.5008347 },
+          "LSEBCS": { "rank": 0, "percentile": 0 },
+          "DEFOPENS": { "rank": 0, "percentile": 0 },
+          "DEFROBCS": { "rank": 0, "percentile": 0 },
+          "EWS": { "rank": 0, "percentile": 0 }
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (IoT)",
+        "branch_code": "0416726710",
+        "state_level": {
+          "GOPENS": { "rank": 87812, "percentile": 67.6158803 },
+          "GSCS": { "rank": 38562, "percentile": 86.8244074 },
+          "GSTS": { "rank": 28456, "percentile": 90.4629322 },
+          "GNT1S": { "rank": 144287, "percentile": 34.8626522 },
+          "GNT2S": { "rank": 99467, "percentile": 62.2534756 },
+          "GOBCS": { "rank": 109486, "percentile": 57.1543272 },
+          "LOBCS": { "rank": 52339, "percentile": 81.8420405 },
+          "GSEBCS": { "rank": 27135, "percentile": 90.8909574 },
+          "LOPENS": { "rank": 35524, "percentile": 88.0194481 },
+          "LNT2S": { "rank": 79201, "percentile": 71.3988776 },
+          "LNT3S": { "rank": 43157, "percentile": 85.2572473 },
+          "LSEBCS": { "rank": 30780, "percentile": 89.591785 },
+          "PWDOPENS": { "rank": 33211, "percentile": 88.7742666 },
+          "DEFOPENS": { "rank": 28087, "percentile": 90.52636 },
+          "DEFROBCS": { "rank": 44308, "percentile": 84.7973394 },
+          "EWS": { "rank": 26482, "percentile": 91.1978661 }
+        }
+      },
+      {
+        "branch": "Electrical Engineering (Electronics and Power)",
+        "branch_code": "0416735610",
+        "state_level": {
+          "GOPENS": { "rank": 32195, "percentile": 89.1373005 },
+          "GSCS": { "rank": 27886, "percentile": 90.6756878 },
+          "GSTS": { "rank": 67312, "percentile": 76.1358545 },
+          "GVJS": { "rank": 142132, "percentile": 36.6283954 },
+          "GNT1S": { "rank": 31845, "percentile": 89.2671256 },
+          "GNT2S": { "rank": 69402, "percentile": 75.3410409 },
+          "GNT3S": { "rank": 46956, "percentile": 83.752973 },
+          "LOPENS": { "rank": 61262, "percentile": 78.4507504 },
+          "LSCS": { "rank": 74042, "percentile": 73.4468855 },
+          "LSTS": { "rank": 168578, "percentile": 13.6621028 },
+          "LVJS": { "rank": 136410, "percentile": 40.7306838 },
+          "LNT2S": { "rank": 87614, "percentile": 67.6869909 },
+          "LNT3S": { "rank": 93424, "percentile": 65.2298851 },
+          "LOBCS": { "rank": 83967, "percentile": 69.275473 },
+          "LSEBCS": { "rank": 66044, "percentile": 76.6199764 },
+          "EWS": { "rank": 0, "percentile": 0 }
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engineering",
+        "branch_code": "0416737210",
+        "state_level": {
+          "GOPENS": { "rank": 73315, "percentile": 73.7956676 },
+          "GSCS": { "rank": 124912, "percentile": 47.9842799 },
+          "GSTS": { "rank": 98215, "percentile": 62.8351694 },
+          "GVJS": { "rank": 111126, "percentile": 56.0103934 },
+          "GNT1S": { "rank": 118509, "percentile": 52.0276576 },
+          "GNT2S": { "rank": 66715, "percentile": 76.4789025 },
+          "GNT3S": { "rank": 116820, "percentile": 52.814879 },
+          "LOPENS": { "rank": 166300, "percentile": 16.1364215 },
+          "LSCS": { "rank": 30895, "percentile": 89.541677 },
+          "LSTS": { "rank": 41850, "percentile": 85.5352459 },
+          "LVJS": { "rank": 136982, "percentile": 40.1585977 },
+          "LNT1S": { "rank": 45217, "percentile": 84.5114907 },
+          "LNT2S": { "rank": 39099, "percentile": 86.7139959 },
+          "LNT3S": { "rank": 50212, "percentile": 82.7090241 },
+          "LOBCS": { "rank": 55484, "percentile": 80.7413807 },
+          "LSEBCS": { "rank": 32718, "percentile": 88.9266712 },
+          "PWDOPENS": { "rank": 65317, "percentile": 76.7997668 },
+          "DEFOPENS": { "rank": 31462, "percentile": 89.3321697 },
+          "DEFROBCS": { "rank": 42245, "percentile": 85.4541675 },
+          "EWS": { "rank": 79661, "percentile": 71.1376941 }
+        }
+      },
+      {
+        "branch": "Electronics Engineering (VLSI Design and Technology)",
+        "branch_code": "0416737810",
+        "state_level": {
+          "GOPENS": { "rank": 51802, "percentile": 82.1493863 },
+          "GSCS": { "rank": 58637, "percentile": 79.5290328 },
+          "GSTS": { "rank": 179587, "percentile": 0.0774946 },
+          "GVJS": { "rank": 71490, "percentile": 74.4421543 },
+          "GNT1S": { "rank": 63273, "percentile": 77.8250739 },
+          "GNT2S": { "rank": 52722, "percentile": 81.7887587 },
+          "GNT3S": { "rank": 107738, "percentile": 57.414259 },
+          "GOBCS": { "rank": 54917, "percentile": 80.9741447 },
+          "LOPENS": { "rank": 105187, "percentile": 59.8892661 },
+          "LSCS": { "rank": 51719, "percentile": 82.1493863 },
+          "LSTS": { "rank": 57506, "percentile": 80.003358 },
+          "LVJS": { "rank": 114886, "percentile": 54.0550229 },
+          "LNT2S": { "rank": 62679, "percentile": 77.8466015 },
+          "LOBCS": { "rank": 58041, "percentile": 79.8240416 },
+          "LSEBCS": { "rank": 137060, "percentile": 40.1585977 },
+          "DEFOPENS": { "rank": 119063, "percentile": 51.2783205 },
+          "EWS": { "rank": 0, "percentile": 0 }
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "branch_code": "0416761210",
+        "state_level": {
+          "GOPENS": { "rank": 61824, "percentile": 78.2152555 },
+          "GSCS": { "rank": 77470, "percentile": 72.1239122 },
+          "GSTS": { "rank": 163916, "percentile": 18.576741 },
+          "GVJS": { "rank": 114022, "percentile": 54.1800379 },
+          "GNT1S": { "rank": 83630, "percentile": 69.4683908 },
+          "GNT2S": { "rank": 81922, "percentile": 70.2544031 },
+          "GNT3S": { "rank": 105644, "percentile": 59.0509185 },
+          "GOBCS": { "rank": 68283, "percentile": 75.7359803 },
+          "LOPENS": { "rank": 77292, "percentile": 72.1467831 },
+          "LSCS": { "rank": 84774, "percentile": 68.9053056 },
+          "LSTS": { "rank": 123460, "percentile": 48.777949 },
+          "LVJS": { "rank": 99681, "percentile": 62.2534756 },
+          "LNT1S": { "rank": 88004, "percentile": 67.5881106 },
+          "LNT2S": { "rank": 112262, "percentile": 55.1151268 },
+          "LNT3S": { "rank": 158764, "percentile": 22.974757 },
+          "EWS": { "rank": 0, "percentile": 0 }
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+        "branch_code": "0416791110",
+        "state_level": {
+          "GOPENS": { "rank": 17596, "percentile": 94.163061 },
+          "GSCS": { "rank": 25083, "percentile": 91.6275203 },
+          "GSTS": { "rank": 82706, "percentile": 69.800376 },
+          "GVJS": { "rank": 40455, "percentile": 86.1433391 },
+          "GNT1S": { "rank": 21347, "percentile": 92.8912908 },
+          "GNT2S": { "rank": 32538, "percentile": 89.0036224 },
+          "GNT3S": { "rank": 42070, "percentile": 85.5052176 },
+          "GOBCS": { "rank": 19715, "percentile": 93.4388584 },
+          "LOPENS": { "rank": 35214, "percentile": 88.0535835 },
+          "LSCS": { "rank": 13699, "percentile": 95.4728747 },
+          "LSTS": { "rank": 30143, "percentile": 89.874785 },
+          "LVJS": { "rank": 62460, "percentile": 78.1496564 },
+          "LNT1S": { "rank": 18743, "percentile": 93.7558327 },
+          "LNT2S": { "rank": 50967, "percentile": 82.4751693 },
+          "LNT3S": { "rank": 169796, "percentile": 12.6044134 },
+          "EWS": { "rank": 32170, "percentile": 89.1373005 }
+        }
+      },
+      {
+        "branch": "Artificial Intelligence and Data Science",
+        "branch_code": "0416799510",
+        "state_level": {
+          "GOPENS": { "rank": 23895, "percentile": 92.0214155 },
+          "GSCS": { "rank": 32143, "percentile": 89.1373005 },
+          "GSTS": { "rank": 82509, "percentile": 69.800376 },
+          "GVJS": { "rank": 41910, "percentile": 85.5352459 },
+          "GNT1S": { "rank": 26129, "percentile": 91.2732713 },
+          "GNT2S": { "rank": 40813, "percentile": 86.1227045 },
+          "GNT3S": { "rank": 53012, "percentile": 81.7098306 },
+          "GOBCS": { "rank": 25262, "percentile": 91.5584966 },
+          "LOPENS": { "rank": 48674, "percentile": 83.1983982 },
+          "LSCS": { "rank": 25040, "percentile": 91.6309281 },
+          "LSTS": { "rank": 32312, "percentile": 89.1051648 },
+          "EWS": { "rank": 37059, "percentile": 87.4495947 }
+        }
+      }
+    ]
+  },
+  {
+    "college_name": "ST. Vincent Pallotti College of Engineering & Technology, Nagpur",
+    "college_code": "04174",
+    "location": "Nagpur",
+    "status": "Un-Aided Autonomous Religious Minority - Christian",
+    "home_university": "Autonomous Institute",
+    "cutoff_year": "2024-25",
+    "round": "CAP Round 1",
+    "courses": [
+      {
+        "branch": "Civil Engineering",
+        "branch_code": "0417419110",
+        "state_level": {
+          "GOPENS": { "rank": 100261, "percentile": 61.6354671 },
+          "LOPENS": { "rank": 89634, "percentile": 66.8404462 },
+          "MI": { "rank": 164905, "percentile": 17.7533973 }
+        }
+      },
+      {
+        "branch": "Computer Engineering",
+        "branch_code": "0417424510",
+        "state_level": {
+          "GOPENS": { "rank": 32109, "percentile": 89.1945571 },
+          "LOPENS": { "rank": 31049, "percentile": 89.4824361 },
+          "MI": { "rank": 173979, "percentile": 7.7921536 }
+        }
+      },
+      {
+        "branch": "Information Technology",
+        "branch_code": "0417424610",
+        "state_level": {
+          "GOPENS": { "rank": 36368, "percentile": 87.5598503 },
+          "LOPENS": { "rank": 34393, "percentile": 88.3567734 },
+          "MI": { "rank": 109432, "percentile": 57.1543272 }
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Cyber Security)",
+        "branch_code": "0417426010",
+        "state_level": {
+          "GOPENS": { "rank": 41652, "percentile": 85.7455441 },
+          "LOPENS": { "rank": 39142, "percentile": 86.7111001 },
+          "MI": { "rank": 166996, "percentile": 15.5975889 }
+        }
+      },
+      {
+        "branch": "Computer Science and Business Systems",
+        "branch_code": "0417426210",
+        "state_level": {
+          "GOPENS": { "rank": 45708, "percentile": 84.3369649 },
+          "LOPENS": { "rank": 45726, "percentile": 84.3369649 },
+          "MI": { "rank": 170619, "percentile": 11.5084415 }
+        }
+      },
+      {
+        "branch": "Industrial IoT",
+        "branch_code": "0417426510",
+        "state_level": {
+          "GOPENS": { "rank": 62974, "percentile": 77.8410928 },
+          "LOPENS": { "rank": 62383, "percentile": 78.1496564 }
+        }
+      },
+      {
+        "branch": "Electrical Engineering",
+        "branch_code": "0417429310",
+        "state_level": {
+          "GOPENS": { "rank": 71869, "percentile": 74.3614357 },
+          "LOPENS": { "rank": 76608, "percentile": 72.5041736 }
+        }
+      },
+      {
+        "branch": "Electronics and Telecommunication Engg",
+        "branch_code": "0417437210",
+        "state_level": {
+          "GOPENS": { "rank": 45807, "percentile": 84.3179513 },
+          "LOPENS": { "rank": 42741, "percentile": 85.3426422 },
+          "MI": { "rank": 98689, "percentile": 62.795808 }
+        }
+      },
+      {
+        "branch": "Mechanical Engineering",
+        "branch_code": "0417461210",
+        "state_level": {
+          "GOPENS": { "rank": 80008, "percentile": 70.889365 },
+          "LOPENS": { "rank": 93628, "percentile": 65.2298851 },
+          "MI": { "rank": 161183, "percentile": 21.3531102 }
+        }
+      },
+      {
+        "branch": "Computer Science and Engineering (Data Science)",
+        "branch_code": "0417491210",
+        "state_level": {
+          "GOPENS": { "rank": 36594, "percentile": 87.5036363 },
+          "LOPENS": { "rank": 36440, "percentile": 87.5598503 },
+          "MI": { "rank": 112428, "percentile": 55.1151268 }
+        }
+      },
+      {
+        "branch": "Artificial Intelligence",
+        "branch_code": "0417499710",
+        "state_level": {
+          "GOPENS": { "rank": 37335, "percentile": 87.3711769 },
+          "LOPENS": { "rank": 30625, "percentile": 89.6994627 },
+          "MI": { "rank": 132353, "percentile": 43.4393889 }
+        }
+      }
+    ]
+  }
+]
